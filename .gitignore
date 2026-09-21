@@ -1,0 +1,19 @@
+# Système
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Environnements et dépendances
+node_modules/
+.svelte-kit/
+dist/
+build/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+

@@ -1,0 +1,3450 @@
+[
+  {
+    "id": "acer-campestre",
+    "Nom_commun": "Erable champêtre",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Sapindaceae-Aceraceae",
+    "Genre": "Acer",
+    "Espece": "campestre",
+    "Cultivar": "-",
+    "Lien_general": "https://en.wikipedia.org/wiki/Acer_campestre",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Acer_campestre",
+    "Anecdote": "Sa sève sucrée permettait de préparer un sirop artisanal ; son bois blanc et dur était recherché en lutherie et tournerie.",
+    "note": "",
+    "images": [
+      "images/acer_campestre_complet_1.jpg",
+      "images/acer_campestre_detail_1.jpg",
+      "images/acer_campestre_detail_2.jpg"
+    ],
+    "image_principale": "images/acer_campestre_complet_1.jpg"
+  },
+  {
+    "id": "acer-platanoides",
+    "Nom_commun": "Erable plane",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Sapindaceae-Aceraceae",
+    "Genre": "Acer",
+    "Espece": "platanoides",
+    "Cultivar": "-",
+    "Lien_general": "https://www.futura-sciences.com/planete/definitions/botanique-erable-plane-9307/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Acer_platanoides",
+    "Anecdote": "Sa floraison jaune-vert apparaît avant les feuilles, ce qui permet de le distinguer de l'érable sycomore, qui fleurit après leur développement.",
+    "note": "",
+    "images": [
+      "images/acer_platanoides_complet_1.jpg",
+      "images/acer_platanoides_detail_2.jpg"
+    ],
+    "image_principale": "images/acer_platanoides_complet_1.jpg"
+  },
+  {
+    "id": "acer-pseudoplatanus",
+    "Nom_commun": "Erable sycomore",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Sapindaceae-Aceraceae",
+    "Genre": "Acer",
+    "Espece": "pseudoplatanus",
+    "Cultivar": "-",
+    "Lien_general": "https://en.wikipedia.org/wiki/Acer_pseudoplatanus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Acer_pseudoplatanus",
+    "Anecdote": "Malgré son nom, ce n'est pas un vrai platane : 'pseudoplatanus' vient du grec pour 'faux', ses feuilles ressemblant seulement à celles du platane.",
+    "note": "",
+    "images": [
+      "images/acer_pseudoplatanus_complet_1.jpg",
+      "images/acer_pseudoplatanus_detail_1.jpg",
+      "images/acer_pseudoplatanus_detail_2.jpg"
+    ],
+    "image_principale": "images/acer_pseudoplatanus_complet_1.jpg"
+  },
+  {
+    "id": "aesculus-hippocastanum",
+    "Nom_commun": "Marronnier d'Inde ; Marronnier blanc",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Sapindaceae-Hippocastanaceae",
+    "Genre": "Aesculus",
+    "Espece": "hippocastanum",
+    "Cultivar": "-",
+    "Lien_general": "https://www.humanite-biodiversite.fr/articles/119550-le-marronnier-d-inde-aesculus-hippocastanum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Aesculus_hippocastanum",
+    "Anecdote": "Malgré son nom, il n'est pas originaire d'Inde mais des Balkans ; introduit à Vienne en 1576, puis planté à Paris dès 1612.",
+    "note": "",
+    "images": [
+      "images/aesculus_hippocastanum_complet_1.jpg",
+      "images/aesculus_hippocastanum_detail_1.jpg",
+      "images/aesculus_hippocastanum_detail_2.jpg"
+    ],
+    "image_principale": "images/aesculus_hippocastanum_complet_1.jpg"
+  },
+  {
+    "id": "juglans-regia",
+    "Nom_commun": "Noyer commun, Noyer royal, Calottier",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Juglandaceae",
+    "Genre": "Juglans",
+    "Espece": "regia",
+    "Cultivar": "-",
+    "Lien_general": "https://www.ebben.nl/fr/treeebb/juregia-juglans-regia/pdf/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Juglans_regia",
+    "Anecdote": "Son nom vient du latin 'Jovis glans' (gland de Jupiter) ; on plantait traditionnellement un noyer à la naissance d'un héritier mâle.",
+    "note": "",
+    "images": [
+      "images/juglans_regia_complet_1.jpg",
+      "images/juglans_regia_detail_1.jpg",
+      "images/juglans_regia_detail_2.jpg"
+    ],
+    "image_principale": "images/juglans_regia_complet_1.jpg"
+  },
+  {
+    "id": "albizia-julibrissin",
+    "Nom_commun": "Arbre de soie ; Acacia ou Mimosa de Constantinople",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fabaceae (Leguminosae) - Mimosaceae",
+    "Genre": "Albizia",
+    "Espece": "julibrissin",
+    "Cultivar": "-",
+    "Lien_general": "https://www.futura-sciences.com/planete/definitions/botanique-arbre-soie-10146/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Albizia_julibrissin",
+    "Anecdote": "Son nom vient du persan 'gul-i abrisham' (fleur de soie) ; ses feuilles bipennées se replient chaque soir.",
+    "note": "",
+    "images": [
+      "images/albizia_julibrissin_complet_1.jpg",
+      "images/albizia_julibrissin_detail_1.jpg",
+      "images/albizia_julibrissin_detail_2.jpg"
+    ],
+    "image_principale": "images/albizia_julibrissin_complet_1.jpg"
+  },
+  {
+    "id": "alnus-cordata",
+    "Nom_commun": "Aulne à feuilles en cœur, Aulne de Corse, Aulne cordé",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Betulaceae",
+    "Genre": "Alnus",
+    "Espece": "cordata",
+    "Cultivar": "-",
+    "Lien_general": "https://www.futura-sciences.com/planete/definitions/botanique-aulne-feuilles-coeur-8502/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Alnus_cordata",
+    "Anecdote": "Endémique de Corse et du sud de l'Italie ; se distingue de l'aulne glutineux par sa feuille en cœur et pointue (celle-ci est tronquée au sommet).",
+    "note": "",
+    "images": [
+      "images/alnus_cordata_complet_1.jpg",
+      "images/alnus_cordata_detail_1.jpg"
+    ],
+    "image_principale": "images/alnus_cordata_complet_1.jpg"
+  },
+  {
+    "id": "betula-utilis",
+    "Nom_commun": "Bouleau de l'Himalaya",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Betulaceae",
+    "Genre": "Betula",
+    "Espece": "utilis",
+    "Cultivar": "-",
+    "Lien_general": "https://www.techno-science.net/fr/definitions/betula-utilis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Betula_utilis",
+    "Anecdote": "Son écorce blanche et fine, semblable à du papier, servait dans l'Antiquité à écrire les textes sacrés sanskrits, et sert encore à inscrire des mantras.",
+    "note": "",
+    "images": [
+      "images/betula_utilis_complet_1.jpg",
+      "images/betula_utilis_detail_1.jpg",
+      "images/betula_utilis_detail_2.jpg"
+    ],
+    "image_principale": "images/betula_utilis_complet_1.jpg"
+  },
+  {
+    "id": "carpinus-betulus",
+    "Nom_commun": "Charme ; Charmille",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Betulaceae-Corylaceae",
+    "Genre": "Carpinus",
+    "Espece": "betulus",
+    "Cultivar": "-",
+    "Lien_general": "https://www.futura-sciences.com/planete/definitions/botanique-charme-commun-8235/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Carpinus_betulus",
+    "Anecdote": "Moyen mnémotechnique pour ne pas le confondre avec le hêtre : « le charme d'Adam, c'est d'être à poil » — feuilles dentées chez le charme, poilues chez le hêtre.",
+    "note": "",
+    "images": [
+      "images/carpinus_betulus_complet_1.jpg",
+      "images/carpinus_betulus_detail_1.jpg",
+      "images/carpinus_betulus_detail_2.jpg"
+    ],
+    "image_principale": "images/carpinus_betulus_complet_1.jpg"
+  },
+  {
+    "id": "catalpa-bignonioides",
+    "Nom_commun": "Catalpa commun",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Bignoniaceae",
+    "Genre": "Catalpa",
+    "Espece": "bignonioides",
+    "Cultivar": "-",
+    "Lien_general": "https://www.futura-sciences.com/planete/definitions/botanique-catalpa-8937/",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Catalpa_bignonioides",
+    "Anecdote": "Son nom vient d'un mot cherokee désignant le haricot, en référence à ses longues gousses ; les Bignoniacées doivent leur nom à la ressemblance de ses fleurs avec celles de la bignone.",
+    "note": "",
+    "images": [
+      "images/catalpa_bignonioides_complet_1.jpg",
+      "images/catalpa_bignonioides_detail_1.jpg",
+      "images/catalpa_bignonioides_detail_2.jpg"
+    ],
+    "image_principale": "images/catalpa_bignonioides_complet_1.jpg"
+  },
+  {
+    "id": "cercis-siliquastrum",
+    "Nom_commun": "Arbre de Judée",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fabaceae (Leguminosae) - Caesalpiniaceae",
+    "Genre": "Cercis",
+    "Espece": "siliquastrum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Arbre_de_Jud%C3%A9e",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cercis_siliquastrum",
+    "Anecdote": "Selon la légende, c'est à cet arbre que Judas se serait pendu, ce qui aurait fait rosir de honte ses fleurs. De plus, particularité botanique (cauliflorie) : ses fleurs apparaissent directement sur le tronc.",
+    "note": "",
+    "images": [
+      "images/cercis_siliquastrum_complet_1.jpg",
+      "images/cercis_siliquastrum_detail_1.jpg",
+      "images/cercis_siliquastrum_detail_2.jpg"
+    ],
+    "image_principale": "images/cercis_siliquastrum_complet_1.jpg"
+  },
+  {
+    "id": "corylus-colurna",
+    "Nom_commun": "Noisetier de Byzance",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Betulaceae-Corylaceae",
+    "Genre": "Corylus",
+    "Espece": "colurna",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Noisetier_de_Byzance",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Corylus_colurna",
+    "Anecdote": "Contrairement à notre noisetier commun qui pousse en buisson (cépée), le noisetier de Byzance forme un véritable tronc droit, régulier, et peut devenir un grand arbre de 20 mètres de haut.",
+    "note": "",
+    "images": [
+      "images/corylus_colurna_complet_1.jpg",
+      "images/corylus_colurna_detail_1.jpg",
+      "images/corylus_colurna_detail_2.jpg"
+    ],
+    "image_principale": "images/corylus_colurna_complet_1.jpg"
+  },
+  {
+    "id": "eucalyptus-gunnii",
+    "Nom_commun": "Eucalyptus ; Gommier cidre",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Myrtaceae",
+    "Genre": "Eucalyptus",
+    "Espece": "gunnii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Eucalyptus_gunnii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Eucalyptus_gunnii",
+    "Anecdote": "Son nom 'Gommier cidre' vient de sa sève sucrée que les Aborigènes de Tasmanie faisaient fermenter pour obtenir une boisson semblable au cidre.",
+    "note": "",
+    "images": [
+      "images/eucalyptus_gunnii_complet_1.jpg",
+      "images/eucalyptus_gunnii_detail_1.jpg",
+      "images/eucalyptus_gunnii_detail_2.jpg"
+    ],
+    "image_principale": "images/eucalyptus_gunnii_complet_1.jpg"
+  },
+  {
+    "id": "fagus-sylvatica",
+    "Nom_commun": "Hêtre commun ; Hêtre sylvestre ; Fayard",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fagaceae",
+    "Genre": "Fagus",
+    "Espece": "sylvatica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/H%C3%AAtre_commun",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Fagus_sylvatica",
+    "Anecdote": "Moyen mnémotechnique avec le charme : 'Le charme d'Adam est d'être à poil' -> le charme a des feuilles à dents, le hêtre a des feuilles avec des petits poils sur le bord.",
+    "note": "",
+    "images": [
+      "images/fagus_sylvatica_complet_1.jpg",
+      "images/fagus_sylvatica_detail_1.jpg",
+      "images/fagus_sylvatica_detail_2.jpg"
+    ],
+    "image_principale": "images/fagus_sylvatica_complet_1.jpg"
+  },
+  {
+    "id": "fraxinus-ornus",
+    "Nom_commun": "Frêne à fleurs, Orne, Orne d'Europe, Frêne orne",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Oleaceae",
+    "Genre": "Fraxinus",
+    "Espece": "ornus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Fr%C3%AAne_%C3%A0_fleurs",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Fraxinus_ornus",
+    "Anecdote": "Si l'on entaille son écorce, il laisse couler une sève qui durcit à l'air libre pour former la 'manne de frêne', autrefois très utilisée en médecine comme laxatif doux.",
+    "note": "",
+    "images": [
+      "images/fraxinus_ornus_complet_1.jpg",
+      "images/fraxinus_ornus_detail_1.jpg",
+      "images/fraxinus_ornus_detail_2.jpg"
+    ],
+    "image_principale": "images/fraxinus_ornus_complet_1.jpg"
+  },
+  {
+    "id": "ginkgo-biloba",
+    "Nom_commun": "Arbre aux 40 écus",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Ginkgoaceae",
+    "Genre": "Ginkgo",
+    "Espece": "biloba",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ginkgo_biloba",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Ginkgo_biloba",
+    "Anecdote": "Véritable 'fossile vivant' apparu avant les dinosaures, il est aussi le premier arbre à avoir bourgeonné et repoussé après le bombardement atomique d'Hiroshima.",
+    "note": "",
+    "images": [
+      "images/ginkgo_biloba_complet_1.jpg",
+      "images/ginkgo_biloba_detail_1.jpg",
+      "images/ginkgo_biloba_detail_2.jpg"
+    ],
+    "image_principale": "images/ginkgo_biloba_complet_1.jpg"
+  },
+  {
+    "id": "gleditsia-triacanthos-inermis",
+    "Nom_commun": "Févier d'Amérique sans épine",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fabaceae (Leguminosae) - Caesalpiniaceae",
+    "Genre": "Gleditsia",
+    "Espece": "triacanthos",
+    "Cultivar": "'Inermis'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/F%C3%A9vier_d%27Am%C3%A9rique",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Gleditsia_triacanthos",
+    "Anecdote": "Si le cultivar de la liste est sans épine, l'espèce type possède des épines redoutables à 3 pointes ('triacanthos') sur son tronc, autrefois utilisées comme clous ou aiguilles.",
+    "note": "",
+    "images": [
+      "images/gleditsia_triacanthos_complet_1.jpg",
+      "images/gleditsia_triacanthos_detail_1.jpg",
+      "images/gleditsia_triacanthos_detail_2.jpg"
+    ],
+    "image_principale": "images/gleditsia_triacanthos_complet_1.jpg"
+  },
+  {
+    "id": "koelreuteria-paniculata",
+    "Nom_commun": "Savonnier de Chine ; Bois du Panama",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Sapindaceae",
+    "Genre": "Koelreuteria",
+    "Espece": "paniculata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Savonnier",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Koelreuteria_paniculata",
+    "Anecdote": "Ses fruits originaux ressemblent à de petits lampions en papier (d'où son nom anglais 'Lantern tree'). Ses graines et son écorce contiennent des saponines, ce qui permet d'en faire du savon.",
+    "note": "",
+    "images": [
+      "images/koelreuteria_paniculata_complet_1.jpg",
+      "images/koelreuteria_paniculata_detail_1.jpg",
+      "images/koelreuteria_paniculata_detail_2.jpg"
+    ],
+    "image_principale": "images/koelreuteria_paniculata_complet_1.jpg"
+  },
+  {
+    "id": "liquidambar-styraciflua",
+    "Nom_commun": "Copalme d'Amérique",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Altingiaceae-Hamamelidaceae",
+    "Genre": "Liquidambar",
+    "Espece": "styraciflua",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Copalme_d%27Am%C3%A9rique",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Liquidambar_styraciflua",
+    "Anecdote": "Son nom signifie 'Ambre liquide' en référence à sa résine très odorante. Ses feuilles ressemblent à l'érable, mais elles sont alternes sur le rameau (celles de l'érable sont opposées).",
+    "note": "",
+    "images": [
+      "images/liquidambar_styraciflua_complet_1.jpg",
+      "images/liquidambar_styraciflua_detail_1.jpg",
+      "images/liquidambar_styraciflua_detail_2.jpg"
+    ],
+    "image_principale": "images/liquidambar_styraciflua_complet_1.jpg"
+  },
+  {
+    "id": "liriodendron-tulipifera",
+    "Nom_commun": "Tulipier de Virginie",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Magnoliaceae",
+    "Genre": "Liriodendron",
+    "Espece": "tulipifera",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Tulipier_de_Virginie",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Liriodendron_tulipifera",
+    "Anecdote": "Les feuilles du tulipier ont une forme unique : on dirait que leur extrémité a été coupée aux ciseaux. Au printemps, il donne de superbes fleurs qui ressemblent à des tulipes vert-jaune.",
+    "note": "",
+    "images": [
+      "images/liriodendron_tulipifera_complet_1.jpg",
+      "images/liriodendron_tulipifera_detail_1.jpg",
+      "images/liriodendron_tulipifera_detail_2.jpg"
+    ],
+    "image_principale": "images/liriodendron_tulipifera_complet_1.jpg"
+  },
+  {
+    "id": "magnolia-grandiflora",
+    "Nom_commun": "Magnolia à grandes fleurs ; Magnolier",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Magnoliaceae",
+    "Genre": "Magnolia",
+    "Espece": "grandiflora",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Magnolia_grandiflora",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Magnolia_grandiflora",
+    "Anecdote": "Arbre très ancien à feuilles coriaces et persistantes ; ses grandes fleurs blanches parfumées ont un pistil central si primitif qu'elles étaient pollinisées par des coléoptères avant même l'apparition des abeilles.",
+    "note": "",
+    "images": [
+      "images/magnolia_grandiflora_complet_1.jpg",
+      "images/magnolia_grandiflora_detail_1.jpg",
+      "images/magnolia_grandiflora_detail_2.jpg"
+    ],
+    "image_principale": "images/magnolia_grandiflora_complet_1.jpg"
+  },
+  {
+    "id": "magnolia-x-soulangeana",
+    "Nom_commun": "Magnolia de Soulange ; Magnolier",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Magnoliaceae",
+    "Genre": "Magnolia",
+    "Espece": "x soulangeana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Magnolia_%C3%97_soulangeana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Magnolia_%C3%97_soulangeana",
+    "Anecdote": "Obtenu en France en 1820 par Étienne Soulange-Bodin (un ancien officier de Napoléon), cet hybride fleurit au début du printemps sur du bois nu avant la sortie des feuilles.",
+    "note": "",
+    "images": [
+      "images/magnolia_x_soulangeana_complet_1.jpg",
+      "images/magnolia_x_soulangeana_detail_1.jpg",
+      "images/magnolia_x_soulangeana_detail_2.jpg"
+    ],
+    "image_principale": "images/magnolia_x_soulangeana_complet_1.jpg"
+  },
+  {
+    "id": "morus-alba",
+    "Nom_commun": "Mûrier blanc, Mûrier commun",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Moraceae",
+    "Genre": "Morus",
+    "Espece": "alba",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/M%C3%BBrier_blanc",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Morus_alba",
+    "Anecdote": "Ses feuilles sont le seul aliment des chenilles du ver à soie (Bombyx du mûrier) ; son introduction en Europe au Moyen Âge a permis le développement de l'industrie de la soie.",
+    "note": "",
+    "images": [
+      "images/morus_alba_complet_1.jpg",
+      "images/morus_alba_detail_1.jpg",
+      "images/morus_alba_detail_2.jpg"
+    ],
+    "image_principale": "images/morus_alba_complet_1.jpg"
+  },
+  {
+    "id": "paulownia-tomentosa-imperialis",
+    "Nom_commun": "Paulownia impérial",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Paulowniaceae-Scrophulariaceae",
+    "Genre": "Paulownia",
+    "Espece": "tomentosa / imperialis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Paulownia_tomentosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Paulownia_tomentosa",
+    "Anecdote": "Surnommé 'l'arbre de la princesse', il produit d'immenses feuilles velues et des fleurs violettes en cloches. Ses graines extrêmement légères ont autrefois servi d'emballage dans les colis d'exportation chinois.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "platanus-x-acerifolia-x-hispanica",
+    "Nom_commun": "Platane commun",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Platanaceae",
+    "Genre": "Platanus",
+    "Espece": "x acerifolia / x hispanica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Platanus_%C3%97_hispanica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Platanus_%C3%97_hispanica",
+    "Anecdote": "Très résistant à la pollution urbaine, il se reconnaît à ses fruits poilus pendants par deux et son écorce qui se détache en plaques, rappelant une tenue de camouflage militaire.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "prunus-cerasifera-nigra",
+    "Nom_commun": "Prunier de Pissard",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Rosaceae",
+    "Genre": "Prunus",
+    "Espece": "cerasifera",
+    "Cultivar": "'Nigra'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Prunus_cerasifera",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Prunus_cerasifera",
+    "Anecdote": "Son feuillage pourpre très sombre et ses fleurs roses très précoces au printemps en font un classique des parcs. 'Nigra' fait référence à la couleur très foncée de ses feuilles.",
+    "note": "",
+    "images": [
+      "images/prunus_cerasifera_complet_1.jpg",
+      "images/prunus_cerasifera_detail_1.jpg",
+      "images/prunus_cerasifera_detail_2.jpg"
+    ],
+    "image_principale": "images/prunus_cerasifera_complet_1.jpg"
+  },
+  {
+    "id": "prunus-serrulata",
+    "Nom_commun": "Cerisier à fleurs ; Cerisier du Japon",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Rosaceae",
+    "Genre": "Prunus",
+    "Espece": "serrulata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Prunus_serrulata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Prunus_serrulata",
+    "Anecdote": "Emblème du Japon sous le nom de 'Sakura', sa floraison printanière donne lieu à la fête traditionnelle de l'Hanami où l'on contemple les fleurs qui tombent en une 'pluie de neige rose'.",
+    "note": "",
+    "images": [
+      "images/prunus_serrulata_complet_1.jpg",
+      "images/prunus_serrulata_detail_1.jpg",
+      "images/prunus_serrulata_detail_2.jpg"
+    ],
+    "image_principale": "images/prunus_serrulata_complet_1.jpg"
+  },
+  {
+    "id": "quercus-ilex",
+    "Nom_commun": "Chêne vert",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fagaceae",
+    "Genre": "Quercus",
+    "Espece": "ilex",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ch%C3%AAne_vert",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Quercus_ilex",
+    "Anecdote": "Aussi appelé 'Yeuse', ce chêne du Sud conserve ses feuilles coriaces, sombres et piquantes même en hiver. Son bois très dense coule dans l'eau au lieu de flotter.",
+    "note": "",
+    "images": [
+      "images/quercus_ilex_complet_1.jpg",
+      "images/quercus_ilex_detail_1.jpg",
+      "images/quercus_ilex_detail_2.jpg"
+    ],
+    "image_principale": "images/quercus_ilex_complet_1.jpg"
+  },
+  {
+    "id": "quercus-robur-pedunculata",
+    "Nom_commun": "Chêne pédonculé",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fagaceae",
+    "Genre": "Quercus",
+    "Espece": "robur / pedunculata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ch%C3%AAne_p%C3%A9doncul%C3%A9",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Quercus_robur",
+    "Anecdote": "Moyen mnémotechnique : 'Le Chêne Pédonculé a des fruits Pieds-courts et des feuilles Pas de pied' -> le gland a un long pédoncule (un long pied) mais la feuille n'a pratiquement pas de pétiole.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "robinia-pseudoacacia-umbraculifera",
+    "Nom_commun": "Robinier faux-acacia ; Acacia boule",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fabaceae (Leguminosae) - Papilionaceae",
+    "Genre": "Robinia",
+    "Espece": "pseudoacacia",
+    "Cultivar": "'Umbraculifera'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Robinia_pseudoacacia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Robinia_pseudoacacia",
+    "Anecdote": "Ce cultivar 'Umbraculifera' forme une boule compacte naturelle idéale pour l'alignement. L'espèce est originaire d'Amérique du Nord et fut introduite en Europe par Jean Robin en 1601.",
+    "note": "",
+    "images": [
+      "images/robinia_pseudoacacia_complet_1.jpg",
+      "images/robinia_pseudoacacia_detail_1.jpg",
+      "images/robinia_pseudoacacia_detail_2.jpg"
+    ],
+    "image_principale": "images/robinia_pseudoacacia_complet_1.jpg"
+  },
+  {
+    "id": "salix-caprea",
+    "Nom_commun": "Saule marsault, Saule des chèvres, Marsaule, Marsault",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Salicaceae",
+    "Genre": "Salix",
+    "Espece": "caprea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Salix_caprea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Salix_caprea",
+    "Anecdote": "Plante pionnière essentielle au tout début du printemps : ses chatons argentés très précoce fournissent la toute première nourriture (pollen et nectar) aux abeilles qui sortent d'hivernage.",
+    "note": "",
+    "images": [
+      "images/salix_caprea_complet_1.jpg",
+      "images/salix_caprea_detail_1.jpg",
+      "images/salix_caprea_detail_2.jpg"
+    ],
+    "image_principale": "images/salix_caprea_complet_1.jpg"
+  },
+  {
+    "id": "styphnolobium-sophora-japonicum-japonica",
+    "Nom_commun": "Sophora du Japon",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Fabaceae (Leguminosae) - Papilionaceae",
+    "Genre": "Styphnolobium / Sophora",
+    "Espece": "japonicum / japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Sophora_du_Japon",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Styphnolobium_japonicum",
+    "Anecdote": "Malgré son nom d'espèce 'japonicum', cet arbre est originaire de Chine ; il résiste remarquablement à la sécheresse et à la pollution urbaine tout en offrant une floraison estivale blanche parfumée.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "tilia-platyphyllos",
+    "Nom_commun": "Tilleul à grandes feuilles ; Tilleul de Hollande",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Malvaceae-Tiliaceae",
+    "Genre": "Tilia",
+    "Espece": "platyphyllos",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Tilia_platyphyllos",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Tilia_platyphyllos",
+    "Anecdote": "Pour le reconnaître du tilleul à petites feuilles : le tilleul à grandes feuilles possède des poils blancs sous les aisselles des nervures de ses feuilles, alors qu'ils sont roux chez Tilia cordata.",
+    "note": "",
+    "images": [
+      "images/tilia_platyphyllos_complet_1.jpg",
+      "images/tilia_platyphyllos_detail_1.jpg",
+      "images/tilia_platyphyllos_detail_2.jpg"
+    ],
+    "image_principale": "images/tilia_platyphyllos_complet_1.jpg"
+  },
+  {
+    "id": "trachycarpus-fortunei",
+    "Nom_commun": "Palmier chanvre ; Palmier rustique",
+    "Categorie": "Arbres d'ornement et d'alignement",
+    "Famille": "Arecaceae (Palmae)",
+    "Genre": "Trachycarpus",
+    "Espece": "fortunei",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Trachycarpus_fortunei",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Trachycarpus_fortunei",
+    "Anecdote": "C'est le palmier le plus rustique en Europe (résiste jusqu'à -18 °C). Le stipe est recouvert d'un réseau de fibres brunes poilues qui servaient autrefois à fabriquer des cordages et des paillassons.",
+    "note": "",
+    "images": [
+      "images/trachycarpus_fortunei_complet_1.jpg",
+      "images/trachycarpus_fortunei_detail_1.jpg",
+      "images/trachycarpus_fortunei_detail_2.jpg"
+    ],
+    "image_principale": "images/trachycarpus_fortunei_complet_1.jpg"
+  },
+  {
+    "id": "abies-nordmanniana",
+    "Nom_commun": "Sapin du Caucase ; Sapin de Nordman ; Sapin de Crimée",
+    "Categorie": "Conifères",
+    "Famille": "Pinaceae",
+    "Genre": "Abies",
+    "Espece": "nordmanniana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Sapin_de_Nordmann",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Abies_nordmanniana",
+    "Anecdote": "Le grand classique du sapin de Noël ! Ses aiguilles sont souples, ne piquent pas et surtout ne tombent pratiquement pas une fois l'arbre coupé, contrairement au sapin d'Épicéa.",
+    "note": "",
+    "images": [
+      "images/abies_nordmanniana_complet_1.jpg",
+      "images/abies_nordmanniana_detail_1.jpg",
+      "images/abies_nordmanniana_detail_2.jpg"
+    ],
+    "image_principale": "images/abies_nordmanniana_complet_1.jpg"
+  },
+  {
+    "id": "cedrus-libani-ssp-atlantica-glauca",
+    "Nom_commun": "Cèdre bleu, cèdre de l'atlas",
+    "Categorie": "Conifères",
+    "Famille": "Pinaceae",
+    "Genre": "Cedrus",
+    "Espece": "libani ssp. atlantica",
+    "Cultivar": "'Glauca'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/C%C3%A8dre_de_l%27Atlas",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cedrus_atlantica_%27Glauca%27",
+    "Anecdote": "Ses aiguilles sont d'un bleu argenté spectaculaire. Astuce d'identification des cèdres : ses aiguilles sont groupées en rosettes (rosettes de plus de 20 aiguilles sur les rameaux courts) et ses cônes pointent vers le haut.",
+    "note": "",
+    "images": [
+      "images/cedrus_libani_ssp_atlantica_complet_1.jpg",
+      "images/cedrus_libani_ssp_atlantica_detail_1.jpg"
+    ],
+    "image_principale": "images/cedrus_libani_ssp_atlantica_complet_1.jpg"
+  },
+  {
+    "id": "chamaecyparis-lawsoniana",
+    "Nom_commun": "Cyprès ; Faux-cyprès de Lawson",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae",
+    "Genre": "Chamaecyparis",
+    "Espece": "lawsoniana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Chamaecyparis_lawsoniana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Chamaecyparis_lawsoniana",
+    "Anecdote": "Pour ne pas le confondre avec le vrai cyprès : les ramelets de Chamaecyparis sont très aplatis, et le cône (galbule) est tout petit et sphérique (de la taille d'un pois).",
+    "note": "",
+    "images": [
+      "images/chamaecyparis_lawsoniana_complet_1.jpg",
+      "images/chamaecyparis_lawsoniana_detail_1.jpg",
+      "images/chamaecyparis_lawsoniana_detail_2.jpg"
+    ],
+    "image_principale": "images/chamaecyparis_lawsoniana_complet_1.jpg"
+  },
+  {
+    "id": "cryptomeria-japonica",
+    "Nom_commun": "Cryptomère ; Cèdre du Japon",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae-Taxodiaceae",
+    "Genre": "Cryptomeria",
+    "Espece": "japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cryptomeria_japonica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cryptomeria_japonica",
+    "Anecdote": "Arbre national du Japon (nommé 'Sugi'), son bois imputrescible et odorant est traditionnellement utilisé pour la construction des temples. Son feuillage prend une teinte de bronze/rouille très caractéristique en hiver.",
+    "note": "",
+    "images": [
+      "images/cryptomeria_japonica_complet_1.jpg",
+      "images/cryptomeria_japonica_detail_1.jpg",
+      "images/cryptomeria_japonica_detail_2.jpg"
+    ],
+    "image_principale": "images/cryptomeria_japonica_complet_1.jpg"
+  },
+  {
+    "id": "cupressocyparis-leylandii",
+    "Nom_commun": "Cyprès de Leyland",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae",
+    "Genre": "Cupressocyparis",
+    "Espece": "leylandii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cypr%C3%A8s_de_Leyland",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/%C3%97_Cuprocyparis_leylandii",
+    "Anecdote": "Hybride d'une croissance exceptionnelle (jusqu'à 1 mètre par an), c'est le roi des haies brise-vue rapides. Il est stérile et se multiplie uniquement par bouturage.",
+    "note": "",
+    "images": [
+      "images/cupressocyparis_leylandii_complet_1.jpg",
+      "images/cupressocyparis_leylandii_detail_1.jpg"
+    ],
+    "image_principale": "images/cupressocyparis_leylandii_complet_1.jpg"
+  },
+  {
+    "id": "juniperus-horizontalis",
+    "Nom_commun": "Genévrier rampant",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae",
+    "Genre": "Juniperus",
+    "Espece": "horizontalis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Juniperus_horizontalis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Juniperus_horizontalis",
+    "Anecdote": "Conifère prostré formant un véritable tapis végétal. Son feuillage écailleux vert-bleuté prend souvent une jolie coloration pourprée ou violacée sous l'effet du froid hivernal.",
+    "note": "",
+    "images": [
+      "images/juniperus_horizontalis_complet_1.jpg",
+      "images/juniperus_horizontalis_detail_1.jpg"
+    ],
+    "image_principale": "images/juniperus_horizontalis_complet_1.jpg"
+  },
+  {
+    "id": "picea-abies-excelsa",
+    "Nom_commun": "Epicéa ; Sapin de Noël",
+    "Categorie": "Conifères",
+    "Famille": "Pinaceae",
+    "Genre": "Picea",
+    "Espece": "abies / excelsa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/%C3%89pic%C3%A9a_commun",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Picea_abies",
+    "Anecdote": "Moyen mnémotechnique pour ne pas le confondre avec le sapin : 'L'Épicéa Pend (ses cônes tombent vers le bas), le Sapin Se dresse (ses cônes restent droits)'. De plus, ses aiguilles piquantes sont insérées tout autour du rameau.",
+    "note": "",
+    "images": [
+      "images/picea_abies__excelsa_complet_1.jpg",
+      "images/picea_abies__excelsa_detail_1.jpg"
+    ],
+    "image_principale": "images/picea_abies__excelsa_complet_1.jpg"
+  },
+  {
+    "id": "pinus-nigra",
+    "Nom_commun": "Pin noir",
+    "Categorie": "Conifères",
+    "Famille": "Pinaceae",
+    "Genre": "Pinus",
+    "Espece": "nigra",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Pin_noir",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Pinus_nigra",
+    "Anecdote": "Ses cônes sont très durs et ses aiguilles, regroupées par deux, sont longues, rigides et piques. Son écorce très sombre crevassée en larges plaques grises lui donne son nom de 'pin noir'.",
+    "note": "",
+    "images": [
+      "images/pinus_nigra_complet_1.jpg",
+      "images/pinus_nigra_detail_1.jpg",
+      "images/pinus_nigra_detail_2.jpg"
+    ],
+    "image_principale": "images/pinus_nigra_complet_1.jpg"
+  },
+  {
+    "id": "taxodium-distichum",
+    "Nom_commun": "Cyprès chauve",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae-Taxodiaceae",
+    "Genre": "Taxodium",
+    "Espece": "distichum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cypr%C3%A8s_chauve",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Taxodium_distichum",
+    "Anecdote": "L'un des rares conifères à perdre ses aiguilles en hiver (d'où son qualificatif de 'chauve'). Poussant en milieu aquatique ou marécageux, il développe d'étonnantes racines aériennes appelées pneumatophores pour respirer.",
+    "note": "",
+    "images": [
+      "images/taxodium_distichum_complet_1.jpg",
+      "images/taxodium_distichum_detail_1.jpg",
+      "images/taxodium_distichum_detail_2.jpg"
+    ],
+    "image_principale": "images/taxodium_distichum_complet_1.jpg"
+  },
+  {
+    "id": "taxus-baccata",
+    "Nom_commun": "If commun",
+    "Categorie": "Conifères",
+    "Famille": "Taxaceae",
+    "Genre": "Taxus",
+    "Espece": "baccata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/If_commun",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Taxus_baccata",
+    "Anecdote": "Toute la plante est extrêmement toxique (contenant de la taxine), à l'exception de la chair rouge vif de son fruit (l'arille). C'est un arbre à longévité exceptionnelle pouvant vivre plus de 1 000 ans.",
+    "note": "",
+    "images": [
+      "images/taxus_baccata_complet_1.jpg",
+      "images/taxus_baccata_detail_1.jpg",
+      "images/taxus_baccata_detail_2.jpg"
+    ],
+    "image_principale": "images/taxus_baccata_complet_1.jpg"
+  },
+  {
+    "id": "thuja-plicata-atrovirens",
+    "Nom_commun": "Thuya géant",
+    "Categorie": "Conifères",
+    "Famille": "Cupressaceae",
+    "Genre": "Thuja",
+    "Espece": "plicata",
+    "Cultivar": "'Atrovirens'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Thuya_g%C3%A9ant",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Thuja_plicata",
+    "Anecdote": "Son feuillage aromatique dégage une odeur caractéristique de pomme ou de résine quand on le froisse. Ce cultivar 'Atrovirens' au feuillage vert foncé brillant est très utilisé en haie brise-vue.",
+    "note": "",
+    "images": [
+      "images/thuja_plicata_complet_1.jpg",
+      "images/thuja_plicata_detail_1.jpg",
+      "images/thuja_plicata_detail_2.jpg"
+    ],
+    "image_principale": "images/thuja_plicata_complet_1.jpg"
+  },
+  {
+    "id": "abelia-grandiflora",
+    "Nom_commun": "Abélie à grandes fleurs",
+    "Categorie": "Arbustes",
+    "Famille": "Caprifoliaceae-Linnaeaceae",
+    "Genre": "Abelia",
+    "Espece": "grandiflora",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Abelia_%C3%97_grandiflora",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Abelia_%C3%97_grandiflora",
+    "Anecdote": "Arbuscule remarquable pour sa floraison estivale et automnale très prolongée. Une fois les fleurs blanches/rosées tombées, ses calices pourpres persistent et restent très décoratifs.",
+    "note": "",
+    "images": [
+      "images/abelia_grandiflora_complet_1.jpg",
+      "images/abelia_grandiflora_detail_1.jpg"
+    ],
+    "image_principale": "images/abelia_grandiflora_complet_1.jpg"
+  },
+  {
+    "id": "acer-palmatum",
+    "Nom_commun": "Erable du Japon ; Erable japonais",
+    "Categorie": "Arbustes",
+    "Famille": "Sapindaceae-Aceraceae",
+    "Genre": "Acer",
+    "Espece": "palmatum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Acer_palmatum",
+    "Anecdote": "Incontournable des jardins japonais, il se distingue par ses feuilles palmatilobées à 5, 7 ou 9 lobes profondément découpés qui prennent des teintes de rouge flamboyant à l'automne.",
+    "note": "",
+    "images": [
+      "images/acer_palmatum_complet_1.jpg",
+      "images/acer_palmatum_detail_1.jpg",
+      "images/acer_palmatum_detail_2.jpg"
+    ],
+    "image_principale": "images/acer_palmatum_complet_1.jpg"
+  },
+  {
+    "id": "amelanchier-lamarckii",
+    "Nom_commun": "Amélanchier",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Amelanchier",
+    "Espece": "lamarckii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Amelanchier_lamarckii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Amelanchier_lamarckii",
+    "Anecdote": "Arbuscule d'une grande valeur décorative 4 saisons : floraison blanche étoilée au printemps, jeunes pousses bronzées, baies comestibles bleu-noir en été (appréciées des oiseaux) et feuillage d'automne rouge cuivre.",
+    "note": "",
+    "images": [
+      "images/amelanchier_lamarckii_complet_1.jpg",
+      "images/amelanchier_lamarckii_detail_1.jpg",
+      "images/amelanchier_lamarckii_detail_2.jpg"
+    ],
+    "image_principale": "images/amelanchier_lamarckii_complet_1.jpg"
+  },
+  {
+    "id": "arbutus-unedo",
+    "Nom_commun": "Arbousier ; Arbre aux fraises",
+    "Categorie": "Arbustes",
+    "Famille": "Ericaceae",
+    "Genre": "Arbutus",
+    "Espece": "unedo",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Arbousier",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Arbutus_unedo",
+    "Anecdote": "Surnommé 'Arbre aux fraises' en raison de ses fruits rudes et rouges qui ressemblent à des fraises. Particularité rare : il porte en même temps les fleurs de l'année et les fruits mûrs issus de la floraison de l'année précédente.",
+    "note": "",
+    "images": [
+      "images/arbutus_unedo_complet_1.jpg",
+      "images/arbutus_unedo_detail_1.jpg",
+      "images/arbutus_unedo_detail_2.jpg"
+    ],
+    "image_principale": "images/arbutus_unedo_complet_1.jpg"
+  },
+  {
+    "id": "berberis-gagnepainii",
+    "Nom_commun": "Epine-vinette Gagnepain",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Berberis",
+    "Espece": "gagnepainii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Berberis_gagnepainii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Berberis_gagnepainii",
+    "Anecdote": "Arbuste persistant très défensif aux feuilles étroitement dentées et très piquantes. Il porte le nom du botaniste français François Gagnepain.",
+    "note": "",
+    "images": [
+      "images/berberis_gagnepainii_complet_1.jpg",
+      "images/berberis_gagnepainii_detail_1.jpg"
+    ],
+    "image_principale": "images/berberis_gagnepainii_complet_1.jpg"
+  },
+  {
+    "id": "berberis-stenophylla",
+    "Nom_commun": "Epine-vinette à feuilles étroites",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Berberis",
+    "Espece": "stenophylla",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Berberis_%C3%97_stenophylla",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Berberis_%C3%97_stenophylla",
+    "Anecdote": "Hybride persistant très épineux aux fines feuilles vert sombre, produisant au printemps une floraison jaune d'or étincelante et très parfumée tout le long de ses rameaux arqués.",
+    "note": "",
+    "images": [
+      "images/berberis_stenophylla_complet_1.jpg",
+      "images/berberis_stenophylla_detail_1.jpg"
+    ],
+    "image_principale": "images/berberis_stenophylla_complet_1.jpg"
+  },
+  {
+    "id": "berberis-thunbergii-atropurpurea",
+    "Nom_commun": "Epine-vinette de Thunberg pourpre",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Berberis",
+    "Espece": "thunbergii",
+    "Cultivar": "'Atropurpurea'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Berberis_thunbergii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Berberis_thunbergii",
+    "Anecdote": "Utilisé en haie défensive ou en massif pour son feuillage pourpre vif. Contrairement à Berberis vulgaris, ses baies rouges ne transmettent pas la rouille noire du blé.",
+    "note": "",
+    "images": [
+      "images/berberis_thunbergii_complet_1.jpg",
+      "images/berberis_thunbergii_detail_1.jpg",
+      "images/berberis_thunbergii_detail_2.jpg"
+    ],
+    "image_principale": "images/berberis_thunbergii_complet_1.jpg"
+  },
+  {
+    "id": "buddleja-davidii",
+    "Nom_commun": "Arbre aux papillons",
+    "Categorie": "Arbustes",
+    "Famille": "Scrophulariaceae-Buddlejaceae",
+    "Genre": "Buddleja",
+    "Espece": "davidii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Buddleja_davidii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Buddleja_davidii",
+    "Anecdote": "Surnommé 'Arbre aux papillons' car ses longs épis floraux très mellifères attirent en masse les lépidoptères. Attention : il est classé comme espèce exotique envahissante dans plusieurs régions.",
+    "note": "",
+    "images": [
+      "images/buddleja_davidii_complet_1.jpg",
+      "images/buddleja_davidii_detail_1.jpg"
+    ],
+    "image_principale": "images/buddleja_davidii_complet_1.jpg"
+  },
+  {
+    "id": "callicarpa-bodinieri-profusion",
+    "Nom_commun": "Callicarpe de bodinier ; Arbre aux bonbons ; Arbre à perles",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Callicarpa",
+    "Espece": "bodinieri",
+    "Cultivar": "'Profusion'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Callicarpa_bodinieri",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Callicarpa_bodinieri",
+    "Anecdote": "Surnommé 'Arbre aux bonbons' en raison de ses étonnants fruits d'un violet métallique très brillant regroupés en grappes, extrêmement décoratifs en automne et en hiver après la chute des feuilles.",
+    "note": "",
+    "images": [
+      "images/callicarpa_bodinieri_complet_1.jpg",
+      "images/callicarpa_bodinieri_detail_1.jpg"
+    ],
+    "image_principale": "images/callicarpa_bodinieri_complet_1.jpg"
+  },
+  {
+    "id": "callistemon-viminalis",
+    "Nom_commun": "Rince-bouteille ; Goupillon",
+    "Categorie": "Arbustes",
+    "Famille": "Myrtaceae",
+    "Genre": "Callistemon",
+    "Espece": "viminalis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Callistemon_viminalis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Callistemon_viminalis",
+    "Anecdote": "Ses fleurs rouge vif aux très longues étamines ressemblent à s'y méprendre à un rince-bouteille. Plante méditerranéenne très mellifère qui apprécie les expositions chaudes et ensoleillées.",
+    "note": "",
+    "images": [
+      "images/callistemon_viminalis_complet_1.jpg",
+      "images/callistemon_viminalis_detail_1.jpg"
+    ],
+    "image_principale": "images/callistemon_viminalis_complet_1.jpg"
+  },
+  {
+    "id": "camellia-sasanqua",
+    "Nom_commun": "Camélia d'automne ; Camélia de Noël",
+    "Categorie": "Arbustes",
+    "Famille": "Theaceae",
+    "Genre": "Camellia",
+    "Espece": "sasanqua",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Camellia_sasanqua",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Camellia_sasanqua",
+    "Anecdote": "Contrairement au Camellia japonica qui fleurit au printemps, le Camellia sasanqua fleurit à l'automne et au début de l'hiver, offrant des fleurs souvent simples, très parfumées et dont les pétales tombent un à un.",
+    "note": "",
+    "images": [
+      "images/camellia_sasanqua_complet_1.jpg",
+      "images/camellia_sasanqua_detail_1.jpg",
+      "images/camellia_sasanqua_detail_2.jpg"
+    ],
+    "image_principale": "images/camellia_sasanqua_complet_1.jpg"
+  },
+  {
+    "id": "caryopteris-x-clandonensis",
+    "Nom_commun": "Caryoptéris de Clandon ; Barbe bleue",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Caryopteris",
+    "Espece": "x clandonensis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Caryopteris_%C3%97_clandonensis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Caryopteris_%C3%97_clandonensis",
+    "Anecdote": "Petit arbuste précieux pour sa floraison bleu intense à la fin de l'été (août-septembre). Son feuillage caduc dégage un parfum aromatique poivré lorsqu'on le froisse.",
+    "note": "",
+    "images": [
+      "images/caryopteris_x_clandonensis_complet_1.jpg"
+    ],
+    "image_principale": "images/caryopteris_x_clandonensis_complet_1.jpg"
+  },
+  {
+    "id": "chaenomeles-x-superba",
+    "Nom_commun": "Cognassier du Japon ; Cognassier 'Superbe'",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Chaenomeles",
+    "Espece": "x superba",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Chaenomeles_%C3%97_superba",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Chaenomeles_%C3%97_superba",
+    "Anecdote": "Arbuste défensif très précoce qui se couvre de fleurs rouge/rosé spectaculaires dès la fin de l'hiver, avant même l'apparition des feuilles. Ses petits fruits ressemblent à de petits coings aromatiques.",
+    "note": "",
+    "images": [
+      "images/chaenomeles_x_superba_complet_1.jpg"
+    ],
+    "image_principale": "images/chaenomeles_x_superba_complet_1.jpg"
+  },
+  {
+    "id": "choisya-ternata",
+    "Nom_commun": "Oranger du Mexique",
+    "Categorie": "Arbustes",
+    "Famille": "Rutaceae",
+    "Genre": "Choisya",
+    "Espece": "ternata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Choisya_ternata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Choisya_ternata",
+    "Anecdote": "Feuillage persistant composé de 3 folioles vert brillant. Quand on froisse ses feuilles ou lors de sa floraison printanière blanche, il dégage une délicieuse odeur de fleur d'oranger.",
+    "note": "",
+    "images": [
+      "images/choisya_ternata_complet_1.jpg",
+      "images/choisya_ternata_detail_1.jpg",
+      "images/choisya_ternata_detail_2.jpg"
+    ],
+    "image_principale": "images/choisya_ternata_complet_1.jpg"
+  },
+  {
+    "id": "cordyline-draceana-australis",
+    "Nom_commun": "Cordyline d'Australie",
+    "Categorie": "Arbustes",
+    "Famille": "Asparagaceae-Agavaceae-Lomandraceae-Dracaenaceae",
+    "Genre": "Cordyline / Draceana",
+    "Espece": "australis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cordyline_australis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cordyline_australis",
+    "Anecdote": "Bien que ressemblant à un palmier, c'est une plante proche des agaves. Elle forme une rosette de longues feuilles rubanées et résiste très bien aux embruns de bord de mer.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "cornus-alba-elegantissima-argenteomarginata",
+    "Nom_commun": "Cornouiller panaché blanc",
+    "Categorie": "Arbustes",
+    "Famille": "Cornaceae",
+    "Genre": "Cornus",
+    "Espece": "alba",
+    "Cultivar": "'Elegantissima' / 'Argenteomarginata'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cornus_alba",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cornus_alba_%27Elegantissima%27",
+    "Anecdote": "Remarquable en hiver grâce à ses jeunes rameurs rouge corail vif sans feuilles. Son feuillage bordé de blanc/argent apporte une touche très lumineuse en été.",
+    "note": "",
+    "images": [
+      "images/cornus_alba_complet_1.jpg",
+      "images/cornus_alba_detail_1.jpg",
+      "images/cornus_alba_detail_2.jpg"
+    ],
+    "image_principale": "images/cornus_alba_complet_1.jpg"
+  },
+  {
+    "id": "cornus-kousa",
+    "Nom_commun": "Cornouiller du Japon",
+    "Categorie": "Arbustes",
+    "Famille": "Cornaceae",
+    "Genre": "Cornus",
+    "Espece": "kousa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cornus_kousa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cornus_kousa",
+    "Anecdote": "Arbuste asiatique aux grandes bractées blanches étincelantes à la fin du printemps. Ses fruits rouges sphériques et pendants ressemblent à de petites fraises ou framboises.",
+    "note": "",
+    "images": [
+      "images/cornus_kousa_complet_1.jpg",
+      "images/cornus_kousa_detail_1.jpg",
+      "images/cornus_kousa_detail_2.jpg"
+    ],
+    "image_principale": "images/cornus_kousa_complet_1.jpg"
+  },
+  {
+    "id": "cornus-mas",
+    "Nom_commun": "Cornouiller mâle ; Corbier, Cornier",
+    "Categorie": "Arbustes",
+    "Famille": "Cornaceae",
+    "Genre": "Cornus",
+    "Espece": "mas",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cornus_mas",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cornus_mas",
+    "Anecdote": "Floraison jaune très précoce en fin d'hiver (février-mars) avant le débourrement. Ses petits fruits rouges ovoïdes (les cornouilles) sont comestibles et acidulés une fois très mûrs.",
+    "note": "",
+    "images": [
+      "images/cornus_mas_complet_1.jpg",
+      "images/cornus_mas_detail_1.jpg",
+      "images/cornus_mas_detail_2.jpg"
+    ],
+    "image_principale": "images/cornus_mas_complet_1.jpg"
+  },
+  {
+    "id": "corylus-avellana",
+    "Nom_commun": "Noisetier tortueux",
+    "Categorie": "Arbustes",
+    "Famille": "Betulaceae-Corylaceae",
+    "Genre": "Corylus",
+    "Espece": "avellana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Corylus_avellana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Corylus_avellana_%27Contorta%27",
+    "Anecdote": "Cultivar 'Contorta' aux branches curieusement torsadées en tire-bouchon. Très spectaculaire en hiver quand l'architecture nue des rameaux est mise à nu avec ses chatons pendants.",
+    "note": "",
+    "images": [
+      "images/corylus_avellana_complet_1.jpg",
+      "images/corylus_avellana_detail_1.jpg",
+      "images/corylus_avellana_detail_2.jpg"
+    ],
+    "image_principale": "images/corylus_avellana_complet_1.jpg"
+  },
+  {
+    "id": "cotinus-coggygria-royal-purple",
+    "Nom_commun": "Arbre à perruques pourpre",
+    "Categorie": "Arbustes",
+    "Famille": "Anacardiaceae",
+    "Genre": "Cotinus",
+    "Espece": "coggygria",
+    "Cultivar": "'Royal Purple'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cotinus_coggygria",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cotinus_coggygria_%27Royal_Purple%27",
+    "Anecdote": "Surnommé 'Arbre à perruques' en raison de ses inflorescences plumeuses et vaporeuses rose-pourpré en été qui ressemblent à de la fumée ou à des perruques. Feuillage pourpre intense.",
+    "note": "",
+    "images": [
+      "images/cotinus_coggygria_complet_1.jpg",
+      "images/cotinus_coggygria_detail_1.jpg",
+      "images/cotinus_coggygria_detail_2.jpg"
+    ],
+    "image_principale": "images/cotinus_coggygria_complet_1.jpg"
+  },
+  {
+    "id": "cotoneaster-franchetii",
+    "Nom_commun": "Cotonéaster (Cotonéastre) de Franchet",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Cotoneaster",
+    "Espece": "franchetii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cotoneaster_franchetii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cotoneaster_franchetii",
+    "Anecdote": "Arbuste semi-persistant aux baies orange-rouge très abondantes en automne, très prisées des oiseaux. Le revers de ses petites feuilles est recouvert d'un duvet feutré argenté.",
+    "note": "",
+    "images": [
+      "images/cotoneaster_franchetii_complet_1.jpg"
+    ],
+    "image_principale": "images/cotoneaster_franchetii_complet_1.jpg"
+  },
+  {
+    "id": "cotoneaster",
+    "Nom_commun": "Cotonéaster rampant",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Cotoneaster",
+    "Espece": "-",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cotoneaster",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cotoneaster",
+    "Anecdote": "Excellents arbustes couvre-sol étalés qui épousent le relief du sol ou les murets, se couvrant de petites fleurs blanches au printemps puis de baies rouges décoratives en automne.",
+    "note": "",
+    "images": [
+      "images/cotoneaster__complet_1.jpg",
+      "images/cotoneaster__detail_1.jpg",
+      "images/cotoneaster__detail_2.jpg"
+    ],
+    "image_principale": "images/cotoneaster__complet_1.jpg"
+  },
+  {
+    "id": "cytisus-scoparius",
+    "Nom_commun": "Genêt à balais ; Brande",
+    "Categorie": "Arbustes",
+    "Famille": "Fabaceae-Leguminosae-Papilionaceae",
+    "Genre": "Cytisus",
+    "Espece": "scoparius",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cytisus_scoparius",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Cytisus_scoparius",
+    "Anecdote": "Abondante floraison jaune vif au printemps en forme de papillon. Ses rameaux verts restent photosynthétiques toute l'année. Utilisé autrefois pour fabriquer des balais rigides.",
+    "note": "",
+    "images": [
+      "images/cytisus_scoparius_complet_1.jpg",
+      "images/cytisus_scoparius_detail_1.jpg"
+    ],
+    "image_principale": "images/cytisus_scoparius_complet_1.jpg"
+  },
+  {
+    "id": "deutzia-x",
+    "Nom_commun": "Deutzie hybride",
+    "Categorie": "Arbustes",
+    "Famille": "Hydrangeaceae",
+    "Genre": "Deutzia",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Deutzia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Deutzia",
+    "Anecdote": "Arbuste printanier à la floraison généreuse en clochettes ou étoiles blanches parfois teintées de rose. Écorce s'exfoliant en lanières avec l'âge.",
+    "note": "",
+    "images": [
+      "images/deutzia_x_complet_1.jpg",
+      "images/deutzia_x_detail_1.jpg"
+    ],
+    "image_principale": "images/deutzia_x_complet_1.jpg"
+  },
+  {
+    "id": "elaeagnus-x-ebbingei",
+    "Nom_commun": "Chalef de Ebbinge",
+    "Categorie": "Arbustes",
+    "Famille": "Elaeagnaceae",
+    "Genre": "Elaeagnus",
+    "Espece": "x ebbingei",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Elaeagnus_%C3%97_ebbingei",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Elaeagnus_%C3%97_ebbingei",
+    "Anecdote": "Arbuste de haie persistant ultra-résistant. Le revers de ses feuilles coriaces est piqueté de squames argentées et dorées. Ses petites fleurs d'automne sont très discrètes mais extrêmement parfumées.",
+    "note": "",
+    "images": [
+      "images/elaeagnus_x_ebbingei_complet_1.jpg",
+      "images/elaeagnus_x_ebbingei_detail_1.jpg"
+    ],
+    "image_principale": "images/elaeagnus_x_ebbingei_complet_1.jpg"
+  },
+  {
+    "id": "erica-carnea",
+    "Nom_commun": "Bruyère des Alpes ; Bruyère des neiges",
+    "Categorie": "Arbustes",
+    "Famille": "Ericaceae",
+    "Genre": "Erica",
+    "Espece": "carnea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Erica_carnea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Erica_carnea",
+    "Anecdote": "Bruyère d'hiver particulièrement rustique capable de fleurir sous la neige de janvier à avril. Tolère contrairement à d'autres bruyères les sols légèrement calcaires.",
+    "note": "",
+    "images": [
+      "images/erica_carnea_complet_1.jpg",
+      "images/erica_carnea_detail_1.jpg"
+    ],
+    "image_principale": "images/erica_carnea_complet_1.jpg"
+  },
+  {
+    "id": "eriobotrya-japonica",
+    "Nom_commun": "Néflier du Japon ; Bibacier",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Eriobotrya",
+    "Espece": "japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Eriobotrya_japonica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Eriobotrya_japonica",
+    "Anecdote": "Arbre fruité aux grandes feuilles persistant gondolées et nervurées. Il fleurit en automne (fleurs parfumées) et mûrit ses fruits juteux (les bibaces) au tout début de l'été.",
+    "note": "",
+    "images": [
+      "images/eriobotrya_japonica_complet_1.jpg",
+      "images/eriobotrya_japonica_detail_1.jpg",
+      "images/eriobotrya_japonica_detail_2.jpg"
+    ],
+    "image_principale": "images/eriobotrya_japonica_complet_1.jpg"
+  },
+  {
+    "id": "euonymus-japonicus",
+    "Nom_commun": "Fusain du Japon",
+    "Categorie": "Arbustes",
+    "Famille": "Celastraceae",
+    "Genre": "Euonymus",
+    "Espece": "japonicus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Euonymus_japonicus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Euonymus_japonicus",
+    "Anecdote": "Arbuste persistant très rustique idéal en haie ou en topiaire. Ses petites feuilles coriaces bordées ou non de jaune résistent particulièrement bien aux vents forts et aux embruns.",
+    "note": "",
+    "images": [
+      "images/euonymus_japonicus_complet_1.jpg",
+      "images/euonymus_japonicus_detail_1.jpg"
+    ],
+    "image_principale": "images/euonymus_japonicus_complet_1.jpg"
+  },
+  {
+    "id": "forsythia-x-intermedia",
+    "Nom_commun": "Forsythia ; Mimosa de Paris",
+    "Categorie": "Arbustes",
+    "Famille": "Oleaceae",
+    "Genre": "Forsythia",
+    "Espece": "x intermedia",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Forsythia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Forsythia_%C3%97_intermedia",
+    "Anecdote": "L'un des premiers symboles du printemps avec sa floraison jaune d'or éblouissante sur bois nu dès le mois de mars. Surnommé 'Mimosa de Paris'.",
+    "note": "",
+    "images": [
+      "images/forsythia_x_intermedia_complet_1.jpg",
+      "images/forsythia_x_intermedia_detail_1.jpg",
+      "images/forsythia_x_intermedia_detail_2.jpg"
+    ],
+    "image_principale": "images/forsythia_x_intermedia_complet_1.jpg"
+  },
+  {
+    "id": "hamamelis-mollis",
+    "Nom_commun": "Hamamélis mou ; Hamamélis de Chine",
+    "Categorie": "Arbustes",
+    "Famille": "Hamamelidaceae",
+    "Genre": "Hamamelis",
+    "Espece": "mollis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hamamelis_mollis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hamamelis_mollis",
+    "Anecdote": "Surnommé 'Noisetier des sorcières'. Ses fleurs aux pétales en lanières jaunes apparaissent au cœur de l'hiver sur les rameaux nus et diffusent un parfum très puissant.",
+    "note": "",
+    "images": [
+      "images/hamamelis_mollis_complet_1.jpg",
+      "images/hamamelis_mollis_detail_1.jpg",
+      "images/hamamelis_mollis_detail_2.jpg"
+    ],
+    "image_principale": "images/hamamelis_mollis_complet_1.jpg"
+  },
+  {
+    "id": "hibiscus-syriacus",
+    "Nom_commun": "Hibiscus de Syrie ; Althéa",
+    "Categorie": "Arbustes",
+    "Famille": "Malvaceae",
+    "Genre": "Hibiscus",
+    "Espece": "syriacus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hibiscus_syriacus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hibiscus_syriacus",
+    "Anecdote": "Aussi appelé Althéa ou Mauve en arbre. Il fleurit généreusement tout l'été de juillet à septembre avec de grandes fleurs éphémères ressemblant à celles de la mauve.",
+    "note": "",
+    "images": [
+      "images/hibiscus_syriacus_complet_1.jpg",
+      "images/hibiscus_syriacus_detail_1.jpg",
+      "images/hibiscus_syriacus_detail_2.jpg"
+    ],
+    "image_principale": "images/hibiscus_syriacus_complet_1.jpg"
+  },
+  {
+    "id": "hippophae-rhamnoides",
+    "Nom_commun": "Argousier faux-nerprun",
+    "Categorie": "Arbustes",
+    "Famille": "Elaeagnaceae",
+    "Genre": "Hippophae",
+    "Espece": "rhamnoides",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hippophae_rhamnoides",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hippophae_rhamnoides",
+    "Anecdote": "Arbuste épineux des dunes et berges. Seules les pieds femelles portent les baies orange vif extrêmement riches en vitamine C (30 fois plus que l'orange) serrées le long des rameaux.",
+    "note": "",
+    "images": [
+      "images/hippophae_rhamnoides_complet_1.jpg",
+      "images/hippophae_rhamnoides_detail_1.jpg",
+      "images/hippophae_rhamnoides_detail_2.jpg"
+    ],
+    "image_principale": "images/hippophae_rhamnoides_complet_1.jpg"
+  },
+  {
+    "id": "hydrangea-macrophylla",
+    "Nom_commun": "Hortensia à grandes fleurs",
+    "Categorie": "Arbustes",
+    "Famille": "Hydrangeaceae",
+    "Genre": "Hydrangea",
+    "Espece": "macrophylla",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hydrangea_macrophylla",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hydrangea_macrophylla",
+    "Anecdote": "L'élément phare des jardins bretons ! La couleur de ses fleurs (du rose vif au bleu foncé/violet) dépend directement de l'acidité et de la présence d'aluminium assimilable dans le sol.",
+    "note": "",
+    "images": [
+      "images/hydrangea_macrophylla_complet_1.jpg",
+      "images/hydrangea_macrophylla_detail_1.jpg",
+      "images/hydrangea_macrophylla_detail_2.jpg"
+    ],
+    "image_principale": "images/hydrangea_macrophylla_complet_1.jpg"
+  },
+  {
+    "id": "hypericum-hookerianum",
+    "Nom_commun": "Millepertuis arbustif",
+    "Categorie": "Arbustes",
+    "Famille": "Hypericaceae-Clusiaceae",
+    "Genre": "Hypericum",
+    "Espece": "hookerianum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hypericum_hookerianum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hypericum_hookerianum",
+    "Anecdote": "Arbuste trapu et vigoureux se couvrant en été de grandes fleurs coupe jaune d'or aux étamines bien visibles, très décoratif dans les massifs mi-ombragés.",
+    "note": "",
+    "images": [
+      "images/hypericum_hookerianum_complet_1.jpg",
+      "images/hypericum_hookerianum_detail_1.jpg"
+    ],
+    "image_principale": "images/hypericum_hookerianum_complet_1.jpg"
+  },
+  {
+    "id": "ilex-crenata",
+    "Nom_commun": "Houx créné",
+    "Categorie": "Arbustes",
+    "Famille": "Aquifoliaceae",
+    "Genre": "Ilex",
+    "Espece": "crenata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ilex_crenata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Ilex_crenata",
+    "Anecdote": "Ressemble à s'y méprendre à un Buis, mais ses feuilles sont alternes (et non opposées) avec de légères dentelures. Il est souvent utilisé comme alternative au buis car insensible à la pyrale.",
+    "note": "",
+    "images": [
+      "images/ilex_crenata_complet_1.jpg",
+      "images/ilex_crenata_detail_1.jpg"
+    ],
+    "image_principale": "images/ilex_crenata_complet_1.jpg"
+  },
+  {
+    "id": "kerria-japonica",
+    "Nom_commun": "Corête du Japon",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Kerria",
+    "Espece": "japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Kerria_japonica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Kerria_japonica",
+    "Anecdote": "Arbuste très vigoureux à la floraison printanière jaune d'or étincelante (souvent en pompons). Ses rameaux vert vif restent très décoratifs même en hiver.",
+    "note": "",
+    "images": [
+      "images/kerria_japonica_complet_1.jpg",
+      "images/kerria_japonica_detail_1.jpg",
+      "images/kerria_japonica_detail_2.jpg"
+    ],
+    "image_principale": "images/kerria_japonica_complet_1.jpg"
+  },
+  {
+    "id": "laurus-nobilis",
+    "Nom_commun": "Laurier sauce ; Laurier d'Apollon ; Laurier noble",
+    "Categorie": "Arbustes",
+    "Famille": "Lauraceae",
+    "Genre": "Laurus",
+    "Espece": "nobilis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Laurier_sauce",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Laurus_nobilis",
+    "Anecdote": "Symbole de victoire dans l'Antiquité (couronne de laurier). C'est le vrai laurier aromatique utilisé en cuisine dans le bouquet garni (à ne pas confondre avec le laurier-rose toxique).",
+    "note": "",
+    "images": [
+      "images/laurus_nobilis_complet_1.jpg",
+      "images/laurus_nobilis_detail_1.jpg",
+      "images/laurus_nobilis_detail_2.jpg"
+    ],
+    "image_principale": "images/laurus_nobilis_complet_1.jpg"
+  },
+  {
+    "id": "lavandula-angustifolia-officinalis",
+    "Nom_commun": "Lavande vraie ; Lavande officinale",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Lavandula",
+    "Espece": "angustifolia / officinalis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lavandula_angustifolia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Lavandula_angustifolia",
+    "Anecdote": "Plante emblématique de la Provence. Ses fleurs bleu-violet très odorantes sont utilisées en parfumerie et en tisane ; ses tiges sont de bois dur très apprécié des abeilles.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "leycesteria-formosa",
+    "Nom_commun": "Arbre aux faisans ; Leycester élégant",
+    "Categorie": "Arbustes",
+    "Famille": "Caprifoliaceae",
+    "Genre": "Leycesteria",
+    "Espece": "formosa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Leycesteria_formosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Leycesteria_formosa",
+    "Anecdote": "Surnommé 'Arbre aux faisans' car ses baies pourpres juteuses au goût de caramel ou de figue sur-mûrie sont un mets très recherché par le gibier et les oiseaux.",
+    "note": "",
+    "images": [
+      "images/leycesteria_formosa_complet_1.jpg",
+      "images/leycesteria_formosa_detail_1.jpg",
+      "images/leycesteria_formosa_detail_2.jpg"
+    ],
+    "image_principale": "images/leycesteria_formosa_complet_1.jpg"
+  },
+  {
+    "id": "ligustrum-ovalifolium",
+    "Nom_commun": "Troène de Californie",
+    "Categorie": "Arbustes",
+    "Famille": "Oleaceae",
+    "Genre": "Ligustrum",
+    "Espece": "ovalifolium",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ligustrum_ovalifolium",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Ligustrum_ovalifolium",
+    "Anecdote": "Le grand classique des haies taillées rigides. Très tolérant à la taille sévère et à la pollution, il produit en été des grappes de fleurs blanches odorantes puis de petites baies noires.",
+    "note": "",
+    "images": [
+      "images/ligustrum_ovalifolium_complet_1.jpg",
+      "images/ligustrum_ovalifolium_detail_1.jpg",
+      "images/ligustrum_ovalifolium_detail_2.jpg"
+    ],
+    "image_principale": "images/ligustrum_ovalifolium_complet_1.jpg"
+  },
+  {
+    "id": "lonicera-nitida-maigrun",
+    "Nom_commun": "Chèvrefeuille rampant",
+    "Categorie": "Arbustes",
+    "Famille": "Caprifoliaceae",
+    "Genre": "Lonicera",
+    "Espece": "nitida",
+    "Cultivar": "'Maigrün'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lonicera_nitida",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Lonicera_nitida",
+    "Anecdote": "Arbuste persistant à petites feuilles brillantes. Souvent utilisé en couvre-sol ou en bordure comme alternative au buis grâce à sa pousse rapide et sa grande facilité de taille.",
+    "note": "",
+    "images": [
+      "images/lonicera_nitida_complet_1.jpg",
+      "images/lonicera_nitida_detail_1.jpg"
+    ],
+    "image_principale": "images/lonicera_nitida_complet_1.jpg"
+  },
+  {
+    "id": "mahonia-aquifolium",
+    "Nom_commun": "Mahonia à feuilles de houx",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Mahonia",
+    "Espece": "aquifolium",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Mahonia_aquifolium",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Mahonia_aquifolium",
+    "Anecdote": "Arbuste persistant au feuillage piquant rappelant le houx. Ses fleurs jaunes printanières laissent place à des grappes de baies bleues pruineuses comestibles une fois cuites.",
+    "note": "",
+    "images": [
+      "images/mahonia_aquifolium_complet_1.jpg",
+      "images/mahonia_aquifolium_detail_1.jpg"
+    ],
+    "image_principale": "images/mahonia_aquifolium_complet_1.jpg"
+  },
+  {
+    "id": "mahonia-x-media",
+    "Nom_commun": "Mahonia d'hiver",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Mahonia",
+    "Espece": "x media",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Mahonia_%C3%97_media",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Mahonia_%C3%97_media",
+    "Anecdote": "Spectaculaire floraison hivernale (de novembre à février) en longs épis jaune citron très parfumés au sommet d'un feuillage persistant très coriace et épineux.",
+    "note": "",
+    "images": [
+      "images/mahonia_x_media_complet_1.jpg"
+    ],
+    "image_principale": "images/mahonia_x_media_complet_1.jpg"
+  },
+  {
+    "id": "nandina-domestica",
+    "Nom_commun": "Bambou sacré",
+    "Categorie": "Arbustes",
+    "Famille": "Berberidaceae",
+    "Genre": "Nandina",
+    "Espece": "domestica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Nandina_domestica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Nandina_domestica",
+    "Anecdote": "Surnommé 'Bambou sacré' bien que ce ne soit pas du tout un bambou. Ses jeunes pousses sont pourpres, ses baies d'un rouge vif persistent tout l'hiver et ses feuilles virant au rouge en saison froide.",
+    "note": "",
+    "images": [
+      "images/nandina_domestica_complet_1.jpg",
+      "images/nandina_domestica_detail_1.jpg"
+    ],
+    "image_principale": "images/nandina_domestica_complet_1.jpg"
+  },
+  {
+    "id": "olea-europaea",
+    "Nom_commun": "Olivier d'Europe",
+    "Categorie": "Arbustes",
+    "Famille": "Oleaceae",
+    "Genre": "Olea",
+    "Espece": "europaea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Olea_europaea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Olea_europaea",
+    "Anecdote": "Symbole de la Méditerranée et de paix. Cet arbre au feuillage argenté persistant et à la longévité millénaire produit les olives et supporte très bien la sécheresse.",
+    "note": "",
+    "images": [
+      "images/olea_europaea_complet_1.jpg",
+      "images/olea_europaea_detail_1.jpg",
+      "images/olea_europaea_detail_2.jpg"
+    ],
+    "image_principale": "images/olea_europaea_complet_1.jpg"
+  },
+  {
+    "id": "paeonia-suffruticosa",
+    "Nom_commun": "Pivoine en arbre",
+    "Categorie": "Arbustes",
+    "Famille": "Paeoniaceae",
+    "Genre": "Paeonia",
+    "Espece": "suffruticosa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Paeonia_suffruticosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Paeonia_suffruticosa",
+    "Anecdote": "Arbuste à tiges ligneuses portant au printemps de gigantesques fleurs solitaires (jusqu'à 20-25 cm de diamètre) très spectaculaires aux couleurs variées et délicatement parfumées.",
+    "note": "",
+    "images": [
+      "images/paeonia_suffruticosa_complet_1.jpg",
+      "images/paeonia_suffruticosa_detail_1.jpg",
+      "images/paeonia_suffruticosa_detail_2.jpg"
+    ],
+    "image_principale": "images/paeonia_suffruticosa_complet_1.jpg"
+  },
+  {
+    "id": "perovskia-atriplicifolia",
+    "Nom_commun": "Sauge russe ; Sauge d'Afghanistan",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Perovskia",
+    "Espece": "atriplicifolia",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Salvia_yangii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Salvia_yangii",
+    "Anecdote": "Aussi appelé Sauge russe (désormais reclassé dans le genre Salvia). Son feuillage gris-argenté très aromatique et sa floraison bleu-lavande estivale légère apportent un effet très vaporeux.",
+    "note": "",
+    "images": [
+      "images/perovskia_atriplicifolia_complet_1.jpg",
+      "images/perovskia_atriplicifolia_detail_1.jpg"
+    ],
+    "image_principale": "images/perovskia_atriplicifolia_complet_1.jpg"
+  },
+  {
+    "id": "philadelphus-x",
+    "Nom_commun": "Seringat",
+    "Categorie": "Arbustes",
+    "Famille": "Hydrangeaceae",
+    "Genre": "Philadelphus",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Seringat",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Philadelphus",
+    "Anecdote": "Surnommé 'Poète des jardins' ou 'Faux jasmin' en raison du parfum intense de fleur d'oranger que dégagent ses fleurs blanches à quatre pétales au début de l'été.",
+    "note": "",
+    "images": [
+      "images/philadelphus_x_complet_1.jpg",
+      "images/philadelphus_x_detail_1.jpg"
+    ],
+    "image_principale": "images/philadelphus_x_complet_1.jpg"
+  },
+  {
+    "id": "photinia-fraseri-red-robin",
+    "Nom_commun": "Photinia de Fraser",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Photinia",
+    "Espece": "fraseri",
+    "Cultivar": "'Red Robin'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Photinia_%C3%97_fraseri",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Photinia_%C3%97_fraseri_%27Red_Robin%27",
+    "Anecdote": "L'incontournable des haies champêtres et modernes ! Ses jeunes pousses de printemps affichent un rouge rutilant spectaculaire avant de virer au vert foncé brillant.",
+    "note": "",
+    "images": [
+      "images/photinia_fraseri_complet_1.jpg",
+      "images/photinia_fraseri_detail_1.jpg"
+    ],
+    "image_principale": "images/photinia_fraseri_complet_1.jpg"
+  },
+  {
+    "id": "pittosporum-tenuifolium",
+    "Nom_commun": "Pittospore de Nouvelle-Zélande",
+    "Categorie": "Arbustes",
+    "Famille": "Pittosporaceae",
+    "Genre": "Pittosporum",
+    "Espece": "tenuifolium",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Pittosporum_tenuifolium",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Pittosporum_tenuifolium",
+    "Anecdote": "Arbuste néo-zélandais aux jeunes tiges noires et au feuillage ondulé très esthétique. Ses fleurs sombres nocturnes diffusent un parfum puissant de miel à la tombée du jour.",
+    "note": "",
+    "images": [
+      "images/pittosporum_tenuifolium_complet_1.jpg",
+      "images/pittosporum_tenuifolium_detail_1.jpg",
+      "images/pittosporum_tenuifolium_detail_2.jpg"
+    ],
+    "image_principale": "images/pittosporum_tenuifolium_complet_1.jpg"
+  },
+  {
+    "id": "potentilla-fruticosa",
+    "Nom_commun": "Potentille arbustive",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Potentilla",
+    "Espece": "fruticosa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Potentilla_fruticosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Dasiphora_fruticosa",
+    "Anecdote": "Arbuste très florifère et rustique produisant une multitude de petites fleurs à 5 pétales (jaunes, blanches ou roses) du printemps jusqu'aux premières gelées d'automne.",
+    "note": "",
+    "images": [
+      "images/potentilla_fruticosa_complet_1.jpg",
+      "images/potentilla_fruticosa_detail_1.jpg"
+    ],
+    "image_principale": "images/potentilla_fruticosa_complet_1.jpg"
+  },
+  {
+    "id": "prunus-laurocerasus",
+    "Nom_commun": "Laurier du Caucase ; Laurier cerise ; Laurier palme",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Prunus",
+    "Espece": "laurocerasus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Prunus_laurocerasus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Prunus_laurocerasus",
+    "Anecdote": "Arbuste de haie persistant très répandu aux grandes feuilles vert foncé vernissées. Attention : toutes les parties de la plante (hors chair du fruit) contiennent du cyanure et sont toxiques.",
+    "note": "",
+    "images": [
+      "images/prunus_laurocerasus_complet_1.jpg",
+      "images/prunus_laurocerasus_detail_1.jpg"
+    ],
+    "image_principale": "images/prunus_laurocerasus_complet_1.jpg"
+  },
+  {
+    "id": "prunus-lusitanica",
+    "Nom_commun": "Laurier du Portugal",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Prunus",
+    "Espece": "lusitanica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Prunus_lusitanica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Prunus_lusitanica",
+    "Anecdote": "Se distingue du Laurier-cerise par ses jeunes tiges rouges et ses feuilles plus étroites, dentées et luisantes. Ses fleurs blanches en grappes dressées sont très parfumées.",
+    "note": "",
+    "images": [
+      "images/prunus_lusitanica_complet_1.jpg",
+      "images/prunus_lusitanica_detail_1.jpg"
+    ],
+    "image_principale": "images/prunus_lusitanica_complet_1.jpg"
+  },
+  {
+    "id": "pyracantha-x",
+    "Nom_commun": "Buisson ardent",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Pyracantha",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Pyracantha",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Pyracantha",
+    "Anecdote": "Surnommé 'Buisson ardent' pour ses épines redoutables et ses innombrables baies colorées (rouges, orange ou jaunes) qui recouvrent littéralement l'arbuste en automne et en hiver.",
+    "note": "",
+    "images": [
+      "images/pyracantha_x_complet_1.jpg"
+    ],
+    "image_principale": "images/pyracantha_x_complet_1.jpg"
+  },
+  {
+    "id": "rhododendron-azalea-japonicum-japonica-et-hybrides",
+    "Nom_commun": "Azalée japonaise",
+    "Categorie": "Arbustes",
+    "Famille": "Ericaceae",
+    "Genre": "Rhododendron / Azalea",
+    "Espece": "japonicum / japonica",
+    "Cultivar": "- et hybrides",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Rhododendron",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Rhododendron",
+    "Anecdote": "Plante de terre de bruyère par excellence, préférant les sols acides et l'ombre. Elle se couvre d'une floraison printanière éblouissante aux coloris denses et variés.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "rhododendron-azalea-molle-mollis-et-hybrides",
+    "Nom_commun": "Azalée caduque",
+    "Categorie": "Arbustes",
+    "Famille": "Ericaceae",
+    "Genre": "Rhododendron / Azalea",
+    "Espece": "molle / mollis",
+    "Cultivar": "- et hybrides",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Symphoricarpos_albus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Symphoricarpos_albus",
+    "Anecdote": "Surnommée 'Arbre aux perles' en raison de ses baies blanches spongieuses qui persistent tout l'hiver et claquent sous le pied quand on marche dessus.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "rosmarinus-officinalis",
+    "Nom_commun": "Romarin",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae",
+    "Genre": "Rosmarinus",
+    "Espece": "officinalis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Syringa_vulgaris",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Syringa_vulgaris",
+    "Anecdote": "Arbuste très populaire pour sa floraison printanière généreuse et très parfumée. Ses fleurs mauves, violettes ou blanches sont comestibles.",
+    "note": "",
+    "images": [
+      "images/rosmarinus_officinalis_complet_1.jpg",
+      "images/rosmarinus_officinalis_detail_1.jpg"
+    ],
+    "image_principale": "images/rosmarinus_officinalis_complet_1.jpg"
+  },
+  {
+    "id": "sarcococca-hookeriana-var-humilis",
+    "Nom_commun": "Sarcococca humilis",
+    "Categorie": "Arbustes",
+    "Famille": "Buxaceae",
+    "Genre": "Sarcococca",
+    "Espece": "hookeriana",
+    "Cultivar": "var. humilis",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Tamarix",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Tamarix_ramosissima",
+    "Anecdote": "Arbuste au feuillage très fin ressemblant à des bruyères, produisant une floraison rose plumeuse et légère. Extrêmement résistant au vent et aux sels marins.",
+    "note": "",
+    "images": [
+      "images/sarcococca_hookeriana_complet_1.jpg",
+      "images/sarcococca_hookeriana_detail_1.jpg"
+    ],
+    "image_principale": "images/sarcococca_hookeriana_complet_1.jpg"
+  },
+  {
+    "id": "thymus-vulgaris",
+    "Nom_commun": "Thym cultivé ou Farigoule",
+    "Categorie": "Arbustes",
+    "Famille": "Lamiaceae",
+    "Genre": "Thymus",
+    "Espece": "vulgaris",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Daphne_odora",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Daphne_odora",
+    "Anecdote": "L'un des arbustes les plus puissamment parfumés au cœur de l'hiver (février-mars), offrant des fleurs rosées et un feuillage persistant bordé de crème.",
+    "note": "",
+    "images": [
+      "images/thymus_vulgaris_complet_1.jpg",
+      "images/thymus_vulgaris_detail_1.jpg"
+    ],
+    "image_principale": "images/thymus_vulgaris_complet_1.jpg"
+  },
+  {
+    "id": "ribes-sanguineum",
+    "Nom_commun": "Groseillier sanguin à fleurs",
+    "Categorie": "Arbustes",
+    "Famille": "Grossulariaceae",
+    "Genre": "Ribes",
+    "Espece": "sanguineum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viburnum_%C3%97bodnantense",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Viburnum_%C3%97bodnantense",
+    "Anecdote": "Fleurit sur bois nu de novembre à mars en petits bouquets de fleurs rose tendre exhalant un parfum sucré de vanille et de girofle résistant au gel.",
+    "note": "",
+    "images": [
+      "images/ribes_sanguineum_complet_1.jpg",
+      "images/ribes_sanguineum_detail_1.jpg"
+    ],
+    "image_principale": "images/ribes_sanguineum_complet_1.jpg"
+  },
+  {
+    "id": "rosa-rugosa",
+    "Nom_commun": "Rosier du Japon",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Rosa",
+    "Espece": "rugosa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viburnum_opulus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Viburnum_opulus_%27Roseum%27",
+    "Anecdote": "Nommé 'Boule de neige' en raison de ses inflorescences sphériques blanches spectaculaires en mai. Son feuillage prend de magnifiques teintes automnales.",
+    "note": "",
+    "images": [
+      "images/rosa_rugosa_complet_1.jpg",
+      "images/rosa_rugosa_detail_1.jpg"
+    ],
+    "image_principale": "images/rosa_rugosa_complet_1.jpg"
+  },
+  {
+    "id": "salix-integra-hakuro-nishiki",
+    "Nom_commun": "Saule crevette",
+    "Categorie": "Arbustes",
+    "Famille": "Salicaceae",
+    "Genre": "Salix",
+    "Espece": "integra",
+    "Cultivar": "'Hakuro Nishiki'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viburnum_plicatum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Viburnum_plicatum",
+    "Anecdote": "Port étagé horizontal caractéristique très graphique, se couvrant au printemps d'une double rangée d'inflorescences d'un blanc pur le long des branches.",
+    "note": "",
+    "images": [
+      "images/salix_integra_complet_1.jpg",
+      "images/salix_integra_detail_1.jpg"
+    ],
+    "image_principale": "images/salix_integra_complet_1.jpg"
+  },
+  {
+    "id": "sambucus-nigra",
+    "Nom_commun": "Sureau noir",
+    "Categorie": "Arbustes",
+    "Famille": "Adoxaceae-Caprifoliaceae",
+    "Genre": "Sambucus",
+    "Espece": "nigra",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viburnum_tinus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Viburnum_tinus",
+    "Anecdote": "Incontournable des haies méditerranéennes et régionales, à feuillage persistant, fleurissant tout l'hiver avant de donner de petites baies bleues métalliques.",
+    "note": "",
+    "images": [
+      "images/sambucus_nigra_complet_1.jpg",
+      "images/sambucus_nigra_detail_1.jpg",
+      "images/sambucus_nigra_detail_2.jpg"
+    ],
+    "image_principale": "images/sambucus_nigra_complet_1.jpg"
+  },
+  {
+    "id": "spiraea-japonica",
+    "Nom_commun": "Spirée japonaise",
+    "Categorie": "Arbustes",
+    "Famille": "Rosaceae",
+    "Genre": "Spiraea",
+    "Espece": "japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Weigela_florida",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Weigela_florida",
+    "Anecdote": "Arbuste très florifère en entonnoirs rose-pourpre au printemps, le cultivar 'Alexandra' se distingue par son feuillage pourpre sombre très décoratif.",
+    "note": "",
+    "images": [
+      "images/spiraea_japonica_complet_1.jpg",
+      "images/spiraea_japonica_detail_1.jpg"
+    ],
+    "image_principale": "images/spiraea_japonica_complet_1.jpg"
+  },
+  {
+    "id": "symphoricarpos-x-doorenbosii",
+    "Nom_commun": "Symphorine",
+    "Categorie": "Arbustes",
+    "Famille": "Caprifoliaceae",
+    "Genre": "Symphoricarpos",
+    "Espece": "x doorenbosii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Yucca_filamentosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Yucca_filamentosa",
+    "Anecdote": "Feuillage persistant raide bordé de fils effilochés, produisant en été une spectaculaire hampe florale dressée pouvant dépasser 1,50 m de hauteur.",
+    "note": "",
+    "images": [
+      "images/symphoricarpos_x_doorenbosii_complet_1.jpg"
+    ],
+    "image_principale": "images/symphoricarpos_x_doorenbosii_complet_1.jpg"
+  },
+  {
+    "id": "syringa-vulgaris",
+    "Nom_commun": "Lilas commun",
+    "Categorie": "Arbustes",
+    "Famille": "Oleaceae",
+    "Genre": "Syringa",
+    "Espece": "vulgaris",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Kiwi_(fruit)",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Actinidia_deliciosa",
+    "Anecdote": "Liane fruitière vigoureuse originaire de Chine. Bien que généralement dioïque, le cultivar 'Solissimo' est autofertile et produit seul des fruits sucrés.",
+    "note": "",
+    "images": [
+      "images/syringa_vulgaris_complet_1.jpg",
+      "images/syringa_vulgaris_detail_1.jpg",
+      "images/syringa_vulgaris_detail_2.jpg"
+    ],
+    "image_principale": "images/syringa_vulgaris_complet_1.jpg"
+  },
+  {
+    "id": "viburnum-opulus",
+    "Nom_commun": "Viorne boule de neige ; Viorne Obier",
+    "Categorie": "Arbustes",
+    "Famille": "Adoxaceae-Caprifoliaceae",
+    "Genre": "Viburnum",
+    "Espece": "opulus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Clematis_armandii",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Clematis_armandii",
+    "Anecdote": "L'une des rares clématites à feuillage persistant coriace, très précoce (mars-avril) offrant une profusion de fleurs blanches délicatement parfumées à la fleur d'oranger.",
+    "note": "",
+    "images": [
+      "images/viburnum_opulus_complet_1.jpg",
+      "images/viburnum_opulus_detail_1.jpg",
+      "images/viburnum_opulus_detail_2.jpg"
+    ],
+    "image_principale": "images/viburnum_opulus_complet_1.jpg"
+  },
+  {
+    "id": "viburnum-tinus",
+    "Nom_commun": "Laurier-tin",
+    "Categorie": "Arbustes",
+    "Famille": "Adoxaceae-Caprifoliaceae",
+    "Genre": "Viburnum",
+    "Espece": "tinus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Clematis_montana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Clematis_montana",
+    "Anecdote": "Grimpante d'une vigueur exceptionnelle capable de recouvrir rapidement un mur ou un arbre sous une avalanche de petites fleurs rose pâle parfumées à la vanille.",
+    "note": "",
+    "images": [
+      "images/viburnum_tinus_complet_1.jpg",
+      "images/viburnum_tinus_detail_1.jpg"
+    ],
+    "image_principale": "images/viburnum_tinus_complet_1.jpg"
+  },
+  {
+    "id": "weigela-x",
+    "Nom_commun": "Weigélia",
+    "Categorie": "Arbustes",
+    "Famille": "Caprifoliaceae",
+    "Genre": "Weigela",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hedera_helix",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hedera_helix",
+    "Anecdote": "Plante crampon précieuse pour la biodiversité : il fleurit en automne quand il n'y a plus d'autres fleurs et nourrit les oiseaux en hiver avec ses baies.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "clematis-x",
+    "Nom_commun": "Clématite",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Ranunculaceae",
+    "Genre": "Clematis",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hydrangea_anomala",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hydrangea_anomala",
+    "Anecdote": "S'accroche seul aux murs grâce à ses racines crampons. Idéal pour ombrager un mur au nord grâce à sa floraison estivale en ombelles blanches vaporeuses.",
+    "note": "",
+    "images": [
+      "images/clematis_x_complet_1.jpg",
+      "images/clematis_x_detail_1.jpg"
+    ],
+    "image_principale": "images/clematis_x_complet_1.jpg"
+  },
+  {
+    "id": "hydrangea-anomala-subsp-petiolaris",
+    "Nom_commun": "Hortensia grimpant",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Hydrangeaceae",
+    "Genre": "Hydrangea",
+    "Espece": "anomala",
+    "Cultivar": "subsp. petiolaris",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Jasminum_nudiflorum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Jasminum_nudiflorum",
+    "Anecdote": "Fleurit en petites étoiles jaune vif le long de ses tiges vertes entièrement nues de décembre à mars, bravant la neige et le froid sans difficulté.",
+    "note": "",
+    "images": [
+      "images/hydrangea_anomala_complet_1.jpg",
+      "images/hydrangea_anomala_detail_1.jpg",
+      "images/hydrangea_anomala_detail_2.jpg"
+    ],
+    "image_principale": "images/hydrangea_anomala_complet_1.jpg"
+  },
+  {
+    "id": "lonicera-japonica",
+    "Nom_commun": "Chèvrefeuille du Japon",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Caprifoliaceae",
+    "Genre": "Lonicera",
+    "Espece": "japonica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Jasminum_officinale",
+    "Anecdote": "Liane légendaire de la parfumerie dont les petites fleurs blanches très odorantes diffusent un parfum puissant et envoûtant durant tout l'été.",
+    "note": "",
+    "images": [
+      "images/lonicera_japonica_complet_1.jpg",
+      "images/lonicera_japonica_detail_1.jpg"
+    ],
+    "image_principale": "images/lonicera_japonica_complet_1.jpg"
+  },
+  {
+    "id": "passiflora-caerulea",
+    "Nom_commun": "Fleur de la passion ; Passiflore bleue",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Passifloraceae",
+    "Genre": "Passiflora",
+    "Espece": "caerulea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lonicera_japonica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Lonicera_japonica",
+    "Anecdote": "Grimpante très vigoureuse au feuillage semi-persistant dont les fleurs tubulaires passent du blanc au jaune en exhalant un parfum suave particulièrement intense le soir.",
+    "note": "",
+    "images": [
+      "images/passiflora_caerulea_complet_1.jpg",
+      "images/passiflora_caerulea_detail_1.jpg"
+    ],
+    "image_principale": "images/passiflora_caerulea_complet_1.jpg"
+  },
+  {
+    "id": "trachelospermum-jasminoides",
+    "Nom_commun": "Jasmin étoilé ; Faux jasmin ; Trachelosperme",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Apocynaceae",
+    "Genre": "Trachelospermum",
+    "Espece": "jasminoides",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Parthenocissus_tricuspidata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Parthenocissus_tricuspidata",
+    "Anecdote": "S'accroche solidement aux façades grâce à de petites ventouses sans abîmer les murs. Son feuillage prend une couleur rouge écarlate flamboyante en automne.",
+    "note": "",
+    "images": [
+      "images/trachelospermum_jasminoides_complet_1.jpg",
+      "images/trachelospermum_jasminoides_detail_1.jpg"
+    ],
+    "image_principale": "images/trachelospermum_jasminoides_complet_1.jpg"
+  },
+  {
+    "id": "wisteria-sinensis",
+    "Nom_commun": "Glycine de Chine",
+    "Categorie": "Plantes grimpantes",
+    "Famille": "Fabaceae-Leguminosae-Papilionaceae",
+    "Genre": "Wisteria",
+    "Espece": "sinensis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Passiflora_caerulea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Passiflora_caerulea",
+    "Anecdote": "Fleur complexe et spectaculaire dont les différentes parties symbolisent pour la tradition chrétienne les instruments de la Passion du Christ.",
+    "note": "",
+    "images": [
+      "images/wisteria_sinensis_complet_1.jpg",
+      "images/wisteria_sinensis_detail_1.jpg"
+    ],
+    "image_principale": "images/wisteria_sinensis_complet_1.jpg"
+  },
+  {
+    "id": "actinidia-chinensis-nombreuses-varietes",
+    "Nom_commun": "Kiwi",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Actinidiaceae",
+    "Genre": "Actinidia",
+    "Espece": "chinensis",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Trachelospermum_jasminoides",
+    "Anecdote": "Aussi appelé 'Faux jasmin', c'est une liane persistante aux feuilles coriaces vert sombre brillant. Ses fleurs en hélice blanche dégagent un parfum intense de jasmin tout l'été.",
+    "note": "",
+    "images": [
+      "images/actinidia_chinensis_complet_1.jpg",
+      "images/actinidia_chinensis_detail_1.jpg"
+    ],
+    "image_principale": "images/actinidia_chinensis_complet_1.jpg"
+  },
+  {
+    "id": "ficus-carica-nombreuses-varietes",
+    "Nom_commun": "Figuier",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Moraceae",
+    "Genre": "Ficus",
+    "Espece": "carica",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Glycine_(plante)",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Wisteria_sinensis",
+    "Anecdote": "Spectaculaire liane ligneuse produisant au printemps de très longues grappes pendantes bleu-violet parfumées. Ses tiges s'enroulent autour de leur support dans le sens inverse des aiguilles d'une montre.",
+    "note": "",
+    "images": [
+      "images/ficus_carica_complet_1.jpg",
+      "images/ficus_carica_detail_1.jpg",
+      "images/ficus_carica_detail_2.jpg"
+    ],
+    "image_principale": "images/ficus_carica_complet_1.jpg"
+  },
+  {
+    "id": "malus-domestica-pumila-nombreuses-varietes",
+    "Nom_commun": "Pommier",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Rosaceae",
+    "Genre": "Malus",
+    "Espece": "domestica / pumila",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Acanthus_mollis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Acanthus_mollis",
+    "Anecdote": "Ses grandes feuilles découpées et luisantes ont inspiré le motif du chapiteau corinthien dans l'architecture grecque antique. Elle produit en été de hautes hampes florales denses.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "prunus-cerasus-nombreuses-varietes",
+    "Nom_commun": "Cerisier acide ; Cerisier aigre ; Griottier",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Rosaceae",
+    "Genre": "Prunus",
+    "Espece": "cerasus",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Achillea_millefolium",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Achillea_millefolium",
+    "Anecdote": "Son nom vient du héros grec Achille, qui l'aurait utilisée lors de la guerre de Troie pour soigner les blessures de ses soldats grâce à ses vertus hémostatiques.",
+    "note": "",
+    "images": [
+      "images/prunus_cerasus_complet_1.jpg",
+      "images/prunus_cerasus_detail_1.jpg",
+      "images/prunus_cerasus_detail_2.jpg"
+    ],
+    "image_principale": "images/prunus_cerasus_complet_1.jpg"
+  },
+  {
+    "id": "rubus-idaeus-nombreuses-varietes",
+    "Nom_commun": "Framboisier",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Rosaceae",
+    "Genre": "Rubus",
+    "Espece": "idaeus",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/An%C3%A9mone_du_Japon",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Anemone_x_hybrida",
+    "Anecdote": "Incontournable des massifs d'automne, cette vivace vigoureuse dresse de grandes tiges portant de délicates fleurs blanc pur avec un cœur d'étamines jaunes de fin d'été jusqu'aux gelées.",
+    "note": "",
+    "images": [
+      "images/rubus_idaeus_complet_1.jpg",
+      "images/rubus_idaeus_detail_1.jpg"
+    ],
+    "image_principale": "images/rubus_idaeus_complet_1.jpg"
+  },
+  {
+    "id": "vitis-vinifera-nombreuses-varietes",
+    "Nom_commun": "Vigne",
+    "Categorie": "Arbres et arbustes fruitiers",
+    "Famille": "Vitaceae",
+    "Genre": "Vitis",
+    "Espece": "vinifera",
+    "Cultivar": "Nombreuses variétés",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Aquilegia_vulgaris",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Aquilegia_vulgaris",
+    "Anecdote": "Aussi appelée 'Gant de Notre-Dame', ses fleurs curieuses à éperons se resement très facilement au jardin, créant de belles surprises d'une année sur l'autre.",
+    "note": "",
+    "images": [
+      "images/vitis_vinifera_complet_1.jpg",
+      "images/vitis_vinifera_detail_1.jpg",
+      "images/vitis_vinifera_detail_2.jpg"
+    ],
+    "image_principale": "images/vitis_vinifera_complet_1.jpg"
+  },
+  {
+    "id": "agapanthus-africanus",
+    "Nom_commun": "Agapanthe",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Amaryllidaceae-Alliaceae-Agapanthaceae",
+    "Genre": "Agapanthus",
+    "Espece": "africanus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Symphyotrichum_novae-angliae",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Symphyotrichum_novae-angliae",
+    "Anecdote": "Célèbre pour sa floraison automnale lumineuse en marguerites rose magenta qui attirent les derniers papillons avant l'hiver. Très résistant à l'oïdium.",
+    "note": "",
+    "images": [
+      "images/agapanthus_africanus_complet_1.jpg",
+      "images/agapanthus_africanus_detail_1.jpg"
+    ],
+    "image_principale": "images/agapanthus_africanus_complet_1.jpg"
+  },
+  {
+    "id": "alcea-rosea",
+    "Nom_commun": "Rose trémière ; Passe-rose ; Alcée rose",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Malvaceae",
+    "Genre": "Alcea",
+    "Espece": "rosea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Bergenia_cordifolia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Bergenia_cordifolia",
+    "Anecdote": "Surnommé 'Plante du savetier' car ses grandes feuilles épaisses et coriaces étaient autrefois utilisées pour frotter et faire briller le cuir. Fleurit dès la fin de l'hiver.",
+    "note": "",
+    "images": [
+      "images/alcea_rosea_complet_1.jpg",
+      "images/alcea_rosea_detail_1.jpg",
+      "images/alcea_rosea_detail_2.jpg"
+    ],
+    "image_principale": "images/alcea_rosea_complet_1.jpg"
+  },
+  {
+    "id": "armeria-maritima",
+    "Nom_commun": "Armérie maritime ; Gazon d'Espagne",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Plumbaginaceae",
+    "Genre": "Armeria",
+    "Espece": "maritima",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Brunnera_macrophylla",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Brunnera_macrophylla",
+    "Anecdote": "Superbe vivace d'ombre avec un feuillage argenté nervuré de vert et une délicate floraison printanière bleue rappelant celle du myosotis.",
+    "note": "",
+    "images": [
+      "images/armeria_maritima_complet_1.jpg",
+      "images/armeria_maritima_detail_1.jpg"
+    ],
+    "image_principale": "images/armeria_maritima_complet_1.jpg"
+  },
+  {
+    "id": "asplenium-phyllitis-scolopendrium",
+    "Nom_commun": "Fougère scolopendre ; Scolopendre",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Aspleniaceae",
+    "Genre": "Asplenium / Phyllitis",
+    "Espece": "scolopendrium",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Campanula_portenschlagiana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Campanula_portenschlagiana",
+    "Anecdote": "Plante couvre-sol très rustique et vigoureuse se glissant dans les fissures de murets ou de dallages pour former une cascade de clochettes violettes de mai à juillet.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "astilbe-x-arendsii",
+    "Nom_commun": "Astilbe",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Saxifragaceae",
+    "Genre": "Astilbe",
+    "Espece": "x arendsii",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Echinacea_purpurea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Echinacea_purpurea",
+    "Anecdote": "Plante médicinale majeure issue de la médecine traditionnelle amérindienne, reconnaissable à ses grandes marguerites roses au cœur hérissé comme un hérisson.",
+    "note": "",
+    "images": [
+      "images/astilbe_x_arendsii_complet_1.jpg"
+    ],
+    "image_principale": "images/astilbe_x_arendsii_complet_1.jpg"
+  },
+  {
+    "id": "aubrieta-deltoidea",
+    "Nom_commun": "Aubriète",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Brassicaceae-Cruciferae",
+    "Genre": "Aubrieta",
+    "Espece": "deltoidea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Euphorbia_characias",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Euphorbia_characias",
+    "Anecdote": "Vivace structurante au feuillage persistant bleu-vert, portant d'imposantes inflorescences sphériques vert-jaune au printemps. Attention : sa sève (latex) est irritante.",
+    "note": "",
+    "images": [
+      "images/aubrieta_deltoidea_complet_1.jpg"
+    ],
+    "image_principale": "images/aubrieta_deltoidea_complet_1.jpg"
+  },
+  {
+    "id": "bergenia-cordifolia",
+    "Nom_commun": "Plante des savetiers ; Bergénie à feuilles cordées",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Saxifragaceae",
+    "Genre": "Bergenia",
+    "Espece": "cordifolia",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Geranium",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Geranium",
+    "Anecdote": "Considéré comme l'un des meilleurs géraniums vivaces au monde : il fleurit sans interruption de mai jusqu'aux premières gelées avec de magnifiques fleurs bleu-violet à cœur blanc.",
+    "note": "",
+    "images": [
+      "images/bergenia_cordifolia_complet_1.jpg",
+      "images/bergenia_cordifolia_detail_1.jpg"
+    ],
+    "image_principale": "images/bergenia_cordifolia_complet_1.jpg"
+  },
+  {
+    "id": "campanula-portenschlagiana-muralis",
+    "Nom_commun": "Campanule",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Campanulaceae",
+    "Genre": "Campanula",
+    "Espece": "portenschlagiana / muralis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Helleborus_niger",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Helleborus_niger",
+    "Anecdote": "L'une des rares plantes à fleurir en plein cœur de l'hiver, autour de Noël. Malgré son nom 'niger' (noir) qui désigne la couleur de ses racines, ses fleurs sont d'un blanc pur.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "centranthus-ruber",
+    "Nom_commun": "Valériane rouge ; Centranthe rouge ; Lilas d'Espagne",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Caprifoliaceae-Valerianaceae",
+    "Genre": "Centranthus",
+    "Espece": "ruber",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Heuchera",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Heuchera",
+    "Anecdote": "Surnommée 'Désespoir des peintres' en raison de la finesse et du foisonnement de ses petites clochettes florales vaporeuses très difficiles à restituer en peinture.",
+    "note": "",
+    "images": [
+      "images/centranthus_ruber_complet_1.jpg",
+      "images/centranthus_ruber_detail_1.jpg"
+    ],
+    "image_principale": "images/centranthus_ruber_complet_1.jpg"
+  },
+  {
+    "id": "dianthus-plumarius",
+    "Nom_commun": "Œillet mignardise",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Caryophyllaceae",
+    "Genre": "Dianthus",
+    "Espece": "plumarius",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hosta",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hosta",
+    "Anecdote": "Plante reine des massifs d'ombre pour son feuillage spectaculaire opulant, gaufré et bleuté. Attention : les limaces et escargots en raffolent au printemps !",
+    "note": "",
+    "images": [
+      "images/dianthus_plumarius_complet_1.jpg",
+      "images/dianthus_plumarius_detail_1.jpg"
+    ],
+    "image_principale": "images/dianthus_plumarius_complet_1.jpg"
+  },
+  {
+    "id": "digitalis-purpurea",
+    "Nom_commun": "Digitale pourpre",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Plantaginaceae-Scrophulariaceae",
+    "Genre": "Digitalis",
+    "Espece": "purpurea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Iris_germanica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Iris_germanica",
+    "Anecdote": "Plante emblématique à rhizome poussant au ras du sol. Ses fleurs majestueuses à 3 pétale dressés et 3 sépales retombants ont inspiré la fleur de lys des rois de France.",
+    "note": "",
+    "images": [
+      "images/digitalis_purpurea_complet_1.jpg",
+      "images/digitalis_purpurea_detail_1.jpg"
+    ],
+    "image_principale": "images/digitalis_purpurea_complet_1.jpg"
+  },
+  {
+    "id": "euphorbia-characias",
+    "Nom_commun": "Euphorbe characias ; Euphorbe des garrigues",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Euphorbiaceae",
+    "Genre": "Euphorbia",
+    "Espece": "characias",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lavandula_stoechas",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Lavandula_stoechas",
+    "Anecdote": "Se distingue de la lavande vraie par ses épis floraux surmontés de grandes bractées violettes ressemblant à de petits papillons. Préfère les sols acides ou siliceux.",
+    "note": "",
+    "images": [
+      "images/euphorbia_characias_complet_1.jpg",
+      "images/euphorbia_characias_detail_1.jpg",
+      "images/euphorbia_characias_detail_2.jpg"
+    ],
+    "image_principale": "images/euphorbia_characias_complet_1.jpg"
+  },
+  {
+    "id": "gaura-lindheimeri",
+    "Nom_commun": "Gaura",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Onagraceae",
+    "Genre": "Gaura",
+    "Espece": "lindheimeri",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ceratostigma_plumbaginoides",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Ceratostigma_plumbaginoides",
+    "Anecdote": "Excellent couvre-sol offrant un contraste saisissant en automne : de petites fleurs bleu azur intenses s'épanouissent au milieu d'un feuillage virant au rouge flamboyant.",
+    "note": "",
+    "images": [
+      "images/gaura_lindheimeri_complet_1.jpg",
+      "images/gaura_lindheimeri_detail_1.jpg"
+    ],
+    "image_principale": "images/gaura_lindheimeri_complet_1.jpg"
+  },
+  {
+    "id": "geranium-nombreuses-especes",
+    "Nom_commun": "Géranium vivace",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Geraniaceae",
+    "Genre": "Geranium",
+    "Espece": "Nombreuses espèces",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Nepeta",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Nepeta",
+    "Anecdote": "Surnommé 'Herbe aux chats' car les félins adorent se rouler dedans en raison des molécules aromatiques euphorisantes qu'elle dégage. Floraison bleu lavande très longue.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "helleborus-orientalis",
+    "Nom_commun": "Hellébore orientale ; Rose de carême",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Ranunculaceae",
+    "Genre": "Helleborus",
+    "Espece": "orientalis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Paeonia_lactiflora",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Paeonia_lactiflora",
+    "Anecdote": "Magnifique vivace herbacée offrant au printemps d'imposantes fleurs très douces et délicatement parfumées, très prisées en fleuristerie.",
+    "note": "",
+    "images": [
+      "images/helleborus_orientalis_complet_1.jpg",
+      "images/helleborus_orientalis_detail_1.jpg"
+    ],
+    "image_principale": "images/helleborus_orientalis_complet_1.jpg"
+  },
+  {
+    "id": "heuchera-x",
+    "Nom_commun": "Heuchère",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Saxifragaceae",
+    "Genre": "Heuchera",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Papaver_orientale",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Papaver_orientale",
+    "Anecdote": "Grandes fleurs spectaculaires en coupe de soie froissée rouge vif avec un cœur noir intense au printemps. La plante entre en repos et disparaît en été.",
+    "note": "",
+    "images": [
+      "images/heuchera_x_complet_1.jpg",
+      "images/heuchera_x_detail_1.jpg"
+    ],
+    "image_principale": "images/heuchera_x_complet_1.jpg"
+  },
+  {
+    "id": "hosta-nombreuses-especes",
+    "Nom_commun": "Hosta",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Asparagaceae-Hostaceae",
+    "Genre": "Hosta",
+    "Espece": "Nombreuses espèces",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Phlomis_russeliana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Phlomis_russeliana",
+    "Anecdote": "Inflorescences originales en verticilles étagés de fleurs jaune doux le long de tiges raides qui restent très décoratives en hiver une fois séchées.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "iris-germanica",
+    "Nom_commun": "Iris des jardins",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Iridaceae",
+    "Genre": "Iris",
+    "Espece": "germanica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Penstemon",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Penstemon",
+    "Anecdote": "Floraison généreuse et continue de juin aux gelées en petites clochettes ou trompettes très appréciées des bêtes pollinisatrices.",
+    "note": "",
+    "images": [
+      "images/iris_germanica_complet_1.jpg",
+      "images/iris_germanica_detail_1.jpg"
+    ],
+    "image_principale": "images/iris_germanica_complet_1.jpg"
+  },
+  {
+    "id": "lamprocapnos-spectabilis",
+    "Nom_commun": "Cœur de Marie",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Papaveraceae",
+    "Genre": "Lamprocapnos",
+    "Espece": "spectabilis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Phlox_paniculata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Phlox_paniculata",
+    "Anecdote": "Grande vivace de massif estival produisant de denses bouquets ronds de fleurs très parfumées attirant papillons et syrphes.",
+    "note": "",
+    "images": [
+      "images/lamprocapnos_spectabilis_complet_1.jpg",
+      "images/lamprocapnos_spectabilis_detail_1.jpg"
+    ],
+    "image_principale": "images/lamprocapnos_spectabilis_complet_1.jpg"
+  },
+  {
+    "id": "leucanthemum-maximum",
+    "Nom_commun": "Grande marguerite",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Leucanthemum",
+    "Espece": "maximum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Potentilla",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Potentilla",
+    "Anecdote": "Vivace rustique formant une touffe étalée se couvrant tout l'été de petites fleurs à 5 pétales carmin au cœur plus sombre.",
+    "note": "",
+    "images": [
+      "images/leucanthemum_maximum_complet_1.jpg",
+      "images/leucanthemum_maximum_detail_1.jpg"
+    ],
+    "image_principale": "images/leucanthemum_maximum_complet_1.jpg"
+  },
+  {
+    "id": "phlox-subulata",
+    "Nom_commun": "Phlox rampant ; Phlox mousse",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Polemoniaceae",
+    "Genre": "Phlox",
+    "Espece": "subulata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Primula_vulgaris",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Primula_vulgaris",
+    "Anecdote": "Symbole du renouveau printanier ('prima rosa', première rose), elle fleurit dès la fin de l'hiver dans les sous-bois et talus.",
+    "note": "",
+    "images": [
+      "images/phlox_subulata_complet_1.jpg",
+      "images/phlox_subulata_detail_1.jpg"
+    ],
+    "image_principale": "images/phlox_subulata_complet_1.jpg"
+  },
+  {
+    "id": "sedum-spectabile",
+    "Nom_commun": "Sedum d'automne ; Sedum remarquable",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Crassulaceae",
+    "Genre": "Sedum",
+    "Espece": "spectabile",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Rudbeckia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Rudbeckia_fulgida",
+    "Anecdote": "Une incontournable des massifs de fin d'été : ses marguerites jaune d'or au cône noir central fleurissent sans faiblir d'août à octobre.",
+    "note": "",
+    "images": [
+      "images/sedum_spectabile_complet_1.jpg",
+      "images/sedum_spectabile_detail_1.jpg"
+    ],
+    "image_principale": "images/sedum_spectabile_complet_1.jpg"
+  },
+  {
+    "id": "sempervivum-tectorum",
+    "Nom_commun": "Joubarbe des toits ; Barbe de Jupiter",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Crassulaceae",
+    "Genre": "Sempervivum",
+    "Espece": "tectorum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Salvia_nemorosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Salvia_nemorosa",
+    "Anecdote": "Très recherchée pour ses tiges sombres presque noires et ses denses épis de fleurs violettes qui remontent en fin d'été après une taille.",
+    "note": "",
+    "images": [
+      "images/sempervivum_tectorum_complet_1.jpg",
+      "images/sempervivum_tectorum_detail_1.jpg"
+    ],
+    "image_principale": "images/sempervivum_tectorum_complet_1.jpg"
+  },
+  {
+    "id": "teucrium-chamaedrys",
+    "Nom_commun": "Germandrée petit-chêne",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Teucrium",
+    "Espece": "chamaedrys",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Hylotelephium_spectabile",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Hylotelephium_spectabile",
+    "Anecdote": "Plante grasse très rustique à feuilles charnues réservoirs d'eau. Ses larges plateaux de fleurs roses virant au rouille à l'automne sont de vrais aimants à papillons.",
+    "note": "",
+    "images": [
+      "images/teucrium_chamaedrys_complet_1.jpg",
+      "images/teucrium_chamaedrys_detail_1.jpg"
+    ],
+    "image_principale": "images/teucrium_chamaedrys_complet_1.jpg"
+  },
+  {
+    "id": "vinca-minor",
+    "Nom_commun": "Petite pervenche",
+    "Categorie": "Plantes vivaces",
+    "Famille": "Apocynaceae",
+    "Genre": "Vinca",
+    "Espece": "minor",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Stachys_byzantina",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Stachys_byzantina",
+    "Anecdote": "Surnommée 'Oreille de lapin' ou 'Oreille d'ours' en raison du duvet argenté et extrêmement doux qui recouvre entièrement ses feuilles.",
+    "note": "",
+    "images": [
+      "images/vinca_minor_complet_1.jpg",
+      "images/vinca_minor_detail_1.jpg",
+      "images/vinca_minor_detail_2.jpg"
+    ],
+    "image_principale": "images/vinca_minor_complet_1.jpg"
+  },
+  {
+    "id": "festuca-glauca",
+    "Nom_commun": "Fétuque bleue",
+    "Categorie": "Graminées (et plantes proches)",
+    "Famille": "Poaceae-Graminae",
+    "Genre": "Festuca",
+    "Espece": "glauca",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Festuca_glauca",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Festuca_glauca",
+    "Anecdote": "Forme de petites coussins sphériques très hérissés d'un bleu acier intense, particulièrement résistants à la sécheresse et au plein soleil.",
+    "note": "",
+    "images": [
+      "images/festuca_glauca_complet_1.jpg",
+      "images/festuca_glauca_detail_1.jpg"
+    ],
+    "image_principale": "images/festuca_glauca_complet_1.jpg"
+  },
+  {
+    "id": "miscanthus-sinensis",
+    "Nom_commun": "Eulalie ; Roseau de Chine ; Herbe à éléphant",
+    "Categorie": "Graminées (et plantes proches)",
+    "Famille": "Poaceae-Graminae",
+    "Genre": "Miscanthus",
+    "Espece": "sinensis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Miscanthus_sinensis",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Miscanthus_sinensis",
+    "Anecdote": "Le miscanthus forme de grandes touffes et des inflorescences plumeuses ; mémo : « Miscanthus = herbe haute en panache ».",
+    "note": "Le nom commun « herbe à éléphant » peut aussi désigner d’autres graminées : conserver le nom botanique comme repère.",
+    "images": [
+      "images/miscanthus_sinensis_complet_1.jpg",
+      "images/miscanthus_sinensis_detail_1.jpg"
+    ],
+    "image_principale": "images/miscanthus_sinensis_complet_1.jpg"
+  },
+  {
+    "id": "phyllostachys-aurea",
+    "Nom_commun": "Bambou à chaume doré",
+    "Categorie": "Graminées (et plantes proches)",
+    "Famille": "Poaceae-Graminae",
+    "Genre": "Phyllostachys",
+    "Espece": "aurea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Phyllostachys_aurea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Phyllostachys_aurea",
+    "Anecdote": "Aurea signifie « doré » ; les chaumes peuvent prendre une teinte jaune et présenter des entre-nœuds rapprochés à la base.",
+    "note": "Espèce correcte à confronter au cultivar éventuel.",
+    "images": [
+      "images/phyllostachys_aurea_complet_1.jpg",
+      "images/phyllostachys_aurea_detail_1.jpg"
+    ],
+    "image_principale": "images/phyllostachys_aurea_complet_1.jpg"
+  },
+  {
+    "id": "pleioblastus-fortunei-variegata",
+    "Nom_commun": "Bambou nain",
+    "Categorie": "Graminées (et plantes proches)",
+    "Famille": "Poaceae-Graminae",
+    "Genre": "Pleioblastus",
+    "Espece": "fortunei",
+    "Cultivar": "'Variegata'",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Pleioblastus_fortunei",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Pleioblastus_fortunei",
+    "Anecdote": "Ce bambou nain forme des touffes de feuilles panachées ; mémo : « Pleioblastus = petit bambou décoratif ».",
+    "note": "Vérifier la variété ou le cultivar si le concours distingue les formes panachées.",
+    "images": [
+      "images/pleioblastus_fortunei_complet_1.jpg"
+    ],
+    "image_principale": "images/pleioblastus_fortunei_complet_1.jpg"
+  },
+  {
+    "id": "stipa-tenuifolia",
+    "Nom_commun": "Stipe ; Cheveux d'ange",
+    "Categorie": "Graminées (et plantes proches)",
+    "Famille": "Poaceae-Graminae",
+    "Genre": "Stipa",
+    "Espece": "tenuifolia",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Stipa_tenuissima",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Nassella_tenuissima",
+    "Anecdote": "Les longues arêtes soyeuses évoquent des cheveux d’ange ; mémo : « Stipa = chevelure légère ».",
+    "note": "Le taxon est souvent accepté sous le nom Nassella tenuissima ; Stipa tenuifolia peut être une appellation horticole ou une confusion à vérifier.",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "impatiens-walleriana",
+    "Nom_commun": "Impatience ; Balsamine de Waller",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Balsaminaceae",
+    "Genre": "Impatiens",
+    "Espece": "walleriana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Impatiens_walleriana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Impatiens_walleriana",
+    "Anecdote": "Les capsules d’Impatiens projettent leurs graines au toucher ; mémo : « impatiente, elle n’attend pas ».",
+    "note": "Nom commun multiple : impatience ou balsamine de Waller.",
+    "images": [
+      "images/impatiens_walleriana_complet_1.jpg",
+      "images/impatiens_walleriana_detail_1.jpg"
+    ],
+    "image_principale": "images/impatiens_walleriana_complet_1.jpg"
+  },
+  {
+    "id": "mandevilla-dipladenia-sanderi",
+    "Nom_commun": "Mandévilla ; Mandévilla de Sander",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Apocynaceae",
+    "Genre": "Mandevilla / Dipladenia",
+    "Espece": "sanderi",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Mandevilla_sanderi",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Mandevilla_sanderi",
+    "Anecdote": "Le mandévilla est une plante grimpante tropicale à fleurs en trompette ; mémo : « Mandevilla = liane à grandes trompettes ».",
+    "note": "Mandevilla et Dipladenia sont des appellations horticoles souvent rapprochées ; vérifier le genre retenu.",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "osteospermum-sp",
+    "Nom_commun": "Marguerite du Cap ; Souci du Cap",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Osteospermum",
+    "Espece": "sp.",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Osteospermum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Osteospermum",
+    "Anecdote": "Osteospermum signifie « graine osseuse » ; mémo : « osteo = os » pour retenir l’étymologie.",
+    "note": "Espece « sp. » indique une espèce non précisée : le nom exact du cultivar ou de l’espèce est à rechercher.",
+    "images": [
+      "images/osteospermum_sp_complet_1.jpg",
+      "images/osteospermum_sp_detail_1.jpg"
+    ],
+    "image_principale": "images/osteospermum_sp_complet_1.jpg"
+  },
+  {
+    "id": "pelargonium-hortorum",
+    "Nom_commun": "Géranium zonale",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Geraniaceae",
+    "Genre": "Pelargonium",
+    "Espece": "hortorum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Pelargonium_%C3%97_hortorum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Pelargonium_%C3%97_hortorum",
+    "Anecdote": "Le géranium zonale est en réalité un Pelargonium ; la zone sombre sur la feuille aide à le reconnaître.",
+    "note": "La forme horticole est souvent écrite Pelargonium × hortorum ; « hortorum » dans Espece est à vérifier selon le référentiel.",
+    "images": [
+      "images/pelargonium_hortorum_complet_1.jpg",
+      "images/pelargonium_hortorum_detail_1.jpg"
+    ],
+    "image_principale": "images/pelargonium_hortorum_complet_1.jpg"
+  },
+  {
+    "id": "tagetes-patula",
+    "Nom_commun": "Oeillet d'Inde",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Tagetes",
+    "Espece": "patula",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Tagetes_patula",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Tagetes_patula",
+    "Anecdote": "L’œillet d’Inde est un Tagetes, pas un véritable œillet (Dianthus) ; mémo : « Tagetes = parfum et capitules jaunes/orangés ».",
+    "note": "Nom commun trompeur : Tagetes n’appartient pas au genre Dianthus.",
+    "images": [
+      "images/tagetes_patula_complet_1.jpg",
+      "images/tagetes_patula_detail_1.jpg"
+    ],
+    "image_principale": "images/tagetes_patula_complet_1.jpg"
+  },
+  {
+    "id": "viola-wittrockiana",
+    "Nom_commun": "Pensée",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Violaceae",
+    "Genre": "Viola",
+    "Espece": "wittrockiana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viola_%C3%97_wittrockiana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Viola_wittrockiana",
+    "Anecdote": "La pensée de jardin est généralement notée Viola × wittrockiana ; le signe × indique l’hybride. Vérifier si le référentiel exige cette notation.",
+    "note": "",
+    "images": [
+      "images/viola_wittrockiana_complet_1.jpg",
+      "images/viola_wittrockiana_detail_1.jpg"
+    ],
+    "image_principale": "images/viola_wittrockiana_complet_1.jpg"
+  },
+  {
+    "id": "abutilon-pictum",
+    "Nom_commun": "Abutilon strié, lanterne chinoise",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Malvaceae",
+    "Genre": "Abutilon",
+    "Espece": "pictum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Abutilon_pictum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Abutilon_pictum",
+    "Anecdote": "Abutilon pictum est souvent cultivé pour ses feuilles panachées et ses fleurs en cloche ; mémo : « lanterne chinoise = fleur pendante ».",
+    "note": "",
+    "images": [
+      "images/abutilon_pictum_complet_1.jpg",
+      "images/abutilon_pictum_detail_1.jpg"
+    ],
+    "image_principale": "images/abutilon_pictum_complet_1.jpg"
+  },
+  {
+    "id": "ageratum-houstonianum",
+    "Nom_commun": "Agérate du Mexique, Agérate Bleu, Célestine",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Ageratum",
+    "Espece": "houstonianum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Ageratum_houstonianum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Ageratum_houstonianum",
+    "Anecdote": "Les capitules duveteux de l’agérate rappellent de petits pompons bleus ; mémo : « agérate = air de coton ».",
+    "note": "",
+    "images": [
+      "images/ageratum_houstonianum_complet_1.jpg",
+      "images/ageratum_houstonianum_detail_1.jpg"
+    ],
+    "image_principale": "images/ageratum_houstonianum_complet_1.jpg"
+  },
+  {
+    "id": "amaranthus-caudatus",
+    "Nom_commun": "Amarante queue-de-renard ou amarante caudée",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Amaranthaceae-Chenopodaceae",
+    "Genre": "Amaranthus",
+    "Espece": "caudatus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Amaranthus_caudatus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Amaranthus_caudatus",
+    "Anecdote": "Les inflorescences pendantes évoquent une queue de renard ; mémo : « caudatus = queue ».",
+    "note": "",
+    "images": [
+      "images/amaranthus_caudatus_complet_1.jpg",
+      "images/amaranthus_caudatus_detail_1.jpg"
+    ],
+    "image_principale": "images/amaranthus_caudatus_complet_1.jpg"
+  },
+  {
+    "id": "begonia-semperflorens-semperflorens-cultorum",
+    "Nom_commun": "Bégonia semperflorens ou bégonia dragon",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Begoniaceae",
+    "Genre": "Begonia",
+    "Espece": "semperflorens / semperflorens-cultorum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Begonia_semperflorens-cultorum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Begonia_semperflorens-cultorum",
+    "Anecdote": "Le nom semperflorens signifie « qui fleurit toujours » ; le bégonia de massif est apprécié pour sa floraison durable.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "bidens-ferulifolia",
+    "Nom_commun": "Bidens à feuille de férule",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Bidens",
+    "Espece": "ferulifolia",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Bidens_ferulifolia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Bidens_ferulifolia",
+    "Anecdote": "Bidens signifie « deux dents », en référence aux arêtes de certains fruits ; mémo : « bi-dents = deux dents ».",
+    "note": "",
+    "images": [
+      "images/bidens_ferulifolia_complet_1.jpg",
+      "images/bidens_ferulifolia_detail_1.jpg"
+    ],
+    "image_principale": "images/bidens_ferulifolia_complet_1.jpg"
+  },
+  {
+    "id": "capsicum-annum",
+    "Nom_commun": "Piment doux, piment des jardins, Piment annuel",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Solanaceae",
+    "Genre": "Capsicum",
+    "Espece": "annum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Capsicum_annuum",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Capsicum_annuum",
+    "Anecdote": "Capsicum annuum regroupe de nombreux piments et poivrons ; le piquant dépend notamment de la capsaïcine.",
+    "note": "",
+    "images": [
+      "images/capsicum_annum_complet_1.jpg",
+      "images/capsicum_annum_detail_1.jpg",
+      "images/capsicum_annum_detail_2.jpg"
+    ],
+    "image_principale": "images/capsicum_annum_complet_1.jpg"
+  },
+  {
+    "id": "celosia-argentea",
+    "Nom_commun": "Célosie argentée, épinard de Lagos",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Amaranthaceae-Chenopodaceae",
+    "Genre": "Celosia",
+    "Espece": "argentea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Celosia_argentea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Celosia_argentea",
+    "Anecdote": "Les inflorescences de célosie peuvent évoquer une crête ou une flamme ; mémo : « célosie = crête colorée ».",
+    "note": "",
+    "images": [
+      "images/celosia_argentea_complet_1.jpg",
+      "images/celosia_argentea_detail_1.jpg"
+    ],
+    "image_principale": "images/celosia_argentea_complet_1.jpg"
+  },
+  {
+    "id": "cosmos-bipinnatus",
+    "Nom_commun": "Cosmos bipenné, cosmos à grandes fleurs, cosmos annuel",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Cosmos",
+    "Espece": "bipinnatus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Cosmos_bipinnatus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Cosmos_bipinnatus",
+    "Anecdote": "Bipinnatus signifie « deux fois penné » et décrit le feuillage finement découpé du cosmos.",
+    "note": "",
+    "images": [
+      "images/cosmos_bipinnatus_complet_1.jpg",
+      "images/cosmos_bipinnatus_detail_1.jpg"
+    ],
+    "image_principale": "images/cosmos_bipinnatus_complet_1.jpg"
+  },
+  {
+    "id": "dahlia-x",
+    "Nom_commun": "Dahlia",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Dahlia",
+    "Espece": "x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Dahlia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Dahlia",
+    "Anecdote": "Le dahlia est un genre horticole très diversifié, cultivé pour ses capitules aux formes multiples.",
+    "note": "",
+    "images": [
+      "images/dahlia_x_complet_1.jpg",
+      "images/dahlia_x_detail_1.jpg"
+    ],
+    "image_principale": "images/dahlia_x_complet_1.jpg"
+  },
+  {
+    "id": "echeveria-secunda-glauca",
+    "Nom_commun": "Echévéria",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Crassulaceae",
+    "Genre": "Echeveria",
+    "Espece": "secunda",
+    "Cultivar": "glauca",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Echeveria_secunda",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Echeveria_secunda",
+    "Anecdote": "Echeveria forme une rosette de feuilles charnues ; mémo : « écheveria = échelle de rosette », avec des feuilles disposées en spirale.",
+    "note": "",
+    "images": [
+      "images/echeveria_secunda_complet_1.jpg",
+      "images/echeveria_secunda_detail_1.jpg"
+    ],
+    "image_principale": "images/echeveria_secunda_complet_1.jpg"
+  },
+  {
+    "id": "fuchsia-magellanica-ou-x",
+    "Nom_commun": "Fuchsia",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Onagraceae",
+    "Genre": "Fuchsia",
+    "Espece": "magellanica ou x",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Fuchsia_magellanica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Fuchsia_magellanica",
+    "Anecdote": "Le fuchsia porte des fleurs pendantes aux sépales et pétales contrastés ; mémo : « fuchsia = petites lanternes suspendues ».",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "gazania-splendens",
+    "Nom_commun": "Gazania ou Gazanie",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Gazania",
+    "Espece": "splendens",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Gazania",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Gazania",
+    "Anecdote": "Les capitules de gazania s’ouvrent largement au soleil et se ferment souvent par temps couvert ; mémo : « gazania = gazon solaire ».",
+    "note": "",
+    "images": [
+      "images/gazania_splendens_complet_1.jpg",
+      "images/gazania_splendens_detail_1.jpg"
+    ],
+    "image_principale": "images/gazania_splendens_complet_1.jpg"
+  },
+  {
+    "id": "helianthus-annuus",
+    "Nom_commun": "Tournesol, Hélianthe, Soleil",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Helianthus",
+    "Espece": "annuus",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Helianthus_annuus",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Helianthus_annuus",
+    "Anecdote": "Helianthus signifie « fleur du soleil » ; le capitule est composé de nombreuses petites fleurs, et non d’une seule fleur.",
+    "note": "",
+    "images": [
+      "images/helianthus_annuus_complet_1.jpg",
+      "images/helianthus_annuus_detail_1.jpg",
+      "images/helianthus_annuus_detail_2.jpg"
+    ],
+    "image_principale": "images/helianthus_annuus_complet_1.jpg"
+  },
+  {
+    "id": "impatiens-x-hawkeri-new-guinee",
+    "Nom_commun": "Impatience de Nouvelle-Guinée, Balsamine, Patience",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Balsaminaceae",
+    "Genre": "Impatiens",
+    "Espece": "x hawkeri",
+    "Cultivar": "new guinée",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Impatiens_hawkeri",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Impatiens_hawkeri",
+    "Anecdote": "Les Impatiens peuvent projeter leurs graines à maturité ; mémo : « impatience = capsule qui n’attend pas ».",
+    "note": "",
+    "images": [
+      "images/impatiens_x_hawkeri_complet_1.jpg"
+    ],
+    "image_principale": "images/impatiens_x_hawkeri_complet_1.jpg"
+  },
+  {
+    "id": "lantana-camaras",
+    "Nom_commun": "Lantanier, camara commun, galabert",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Verbenaceae",
+    "Genre": "Lantana",
+    "Espece": "camaras",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lantana_camara",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Lantana_camara",
+    "Anecdote": "Les fleurs du lantana peuvent changer de teinte au cours de leur développement ; mémo : « lantana = bouquet caméléon ».",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "lobelia-x-speciosa",
+    "Nom_commun": "Lobélie, Cardinale des marais, lobélia rouge",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Campanulaceae",
+    "Genre": "Lobelia",
+    "Espece": "x speciosa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Lobelia_%C3%97_speciosa",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Lobelia_%C3%97_speciosa",
+    "Anecdote": "Les lobélies portent des fleurs à corolle fortement divisée ; mémo : « lobélie = lèvres colorées ».",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "nicotiana-x-sanderae",
+    "Nom_commun": "Tabac d'ornement",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Solanaceae",
+    "Genre": "Nicotiana",
+    "Espece": "x sanderae",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Nicotiana_%C3%97_sanderae",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Nicotiana_%C3%97_sanderae",
+    "Anecdote": "Le tabac d’ornement est souvent parfumé le soir ; mémo : « Nicotiana = nez attiré la nuit ».",
+    "note": "",
+    "images": [
+      "images/nicotiana_x_sanderae_complet_1.jpg"
+    ],
+    "image_principale": "images/nicotiana_x_sanderae_complet_1.jpg"
+  },
+  {
+    "id": "petunia-x-hybrida",
+    "Nom_commun": "Pétunia retombant, Pétunia Surfinia",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Solanaceae",
+    "Genre": "Petunia",
+    "Espece": "x hybrida",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/P%C3%A9tunia",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Petunia_%C3%97_hybrida",
+    "Anecdote": "Le pétunia appartient aux Solanacées, comme la tomate et la pomme de terre ; mémo : « pétunia = trompette de la famille des tomates ».",
+    "note": "",
+    "images": [
+      "images/petunia_x_hybrida_complet_1.jpg",
+      "images/petunia_x_hybrida_detail_1.jpg"
+    ],
+    "image_principale": "images/petunia_x_hybrida_complet_1.jpg"
+  },
+  {
+    "id": "salvia-coccinea",
+    "Nom_commun": "Sauge écarlate, sauge splendide, sauge éclatante",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Lamiaceae",
+    "Genre": "Salvia",
+    "Espece": "coccinea",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Salvia_coccinea",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Salvia_coccinea",
+    "Anecdote": "Les fleurs de sauge ont une corolle bilabiée typique des Lamiacées ; mémo : « Salvia = sauge à deux lèvres ».",
+    "note": "",
+    "images": [
+      "images/salvia_coccinea_complet_1.jpg",
+      "images/salvia_coccinea_detail_1.jpg"
+    ],
+    "image_principale": "images/salvia_coccinea_complet_1.jpg"
+  },
+  {
+    "id": "verbena-x-hybrida",
+    "Nom_commun": "Verveine",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Verbenaceae",
+    "Genre": "Verbena",
+    "Espece": "x hybrida",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Verbena_%C3%97_hybrida",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Verbena_%C3%97_hybrida",
+    "Anecdote": "La verveine hybride forme des bouquets de petites fleurs ; mémo : « verveine = verveine en nuage ».",
+    "note": "Espece « x hybrida » : conserver la notation d’hybride dans la note, sans modifier les champs originaux.",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "zinnia-elegans",
+    "Nom_commun": "Zinnia élégant",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Zinnia",
+    "Espece": "elegans",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Zinnia_elegans",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Zinnia_elegans",
+    "Anecdote": "Le zinnia aime le soleil et offre une floraison estivale très colorée ; mémo : « Zinnia = zéro timidité au soleil ».",
+    "note": "",
+    "images": [
+      "images/zinnia_elegans_complet_1.jpg",
+      "images/zinnia_elegans_detail_1.jpg"
+    ],
+    "image_principale": "images/zinnia_elegans_complet_1.jpg"
+  },
+  {
+    "id": "mathiola-incana",
+    "Nom_commun": "Matthiole blanchâtre, Giroflée quarantaine, Giroflée des jardins, Giroflée rouge, Quarantaine, Violier",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Brassicaceae",
+    "Genre": "Mathiola",
+    "Espece": "incana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Matthiola_incana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Matthiola_incana",
+    "Anecdote": "La giroflée est appréciée pour son parfum ; mémo : « giroflée = girofle + effluves ».",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  },
+  {
+    "id": "myosotis-sylvatica",
+    "Nom_commun": "Myosotis des bois, Myosotis des forêts, grémillet, scorpione, herbe d'amour, oreille-de-souris",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Boraginiaceae",
+    "Genre": "Myosotis",
+    "Espece": "sylvatica",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Myosotis_sylvatica",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Myosotis_sylvatica",
+    "Anecdote": "Myosotis signifie « oreille de souris » ; son surnom « ne m’oublie pas » aide à retenir ses petites fleurs bleues.",
+    "note": "",
+    "images": [
+      "images/myosotis_sylvatica_complet_1.jpg",
+      "images/myosotis_sylvatica_detail_1.jpg"
+    ],
+    "image_principale": "images/myosotis_sylvatica_complet_1.jpg"
+  },
+  {
+    "id": "primula-acaulis",
+    "Nom_commun": "Primevère commune, primevère acaule, primevère des jardins, Primevère sans tige",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Primulaceae",
+    "Genre": "Primula",
+    "Espece": "acaulis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Primula_vulgaris",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Primula_vulgaris",
+    "Anecdote": "Acaulis signifie « sans tige » : les fleurs semblent sortir directement de la rosette.",
+    "note": "",
+    "images": [
+      "images/primula_acaulis_complet_1.jpg",
+      "images/primula_acaulis_detail_1.jpg"
+    ],
+    "image_principale": "images/primula_acaulis_complet_1.jpg"
+  },
+  {
+    "id": "viola-wittrockiana",
+    "Nom_commun": "Pensée des jardins, Pensée de Wittrock",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Violaceae",
+    "Genre": "Viola",
+    "Espece": "wittrockiana",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Viola_%C3%97_wittrockiana",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Viola_wittrockiana",
+    "Anecdote": "La pensée évoque un petit visage grâce aux dessins de ses pétales ; c’est un hybride horticole très variable.",
+    "note": "",
+    "images": [
+      "images/viola_wittrockiana_complet_1.jpg",
+      "images/viola_wittrockiana_detail_1.jpg"
+    ],
+    "image_principale": "images/viola_wittrockiana_complet_1.jpg"
+  },
+  {
+    "id": "bellis-perennis",
+    "Nom_commun": "Pâquerette, pâquerette vivace, petite Marguerite",
+    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
+    "Famille": "Asteraceae-Compositae",
+    "Genre": "Bellis",
+    "Espece": "perennis",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/P%C3%A2querette",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Bellis_perennis",
+    "Anecdote": "Perennis signifie « vivace » ; la pâquerette referme souvent son capitule la nuit ou par mauvais temps.",
+    "note": "",
+    "images": [
+      "images/bellis_perennis_complet_1.jpg",
+      "images/bellis_perennis_detail_1.jpg"
+    ],
+    "image_principale": "images/bellis_perennis_complet_1.jpg"
+  },
+  {
+    "id": "fragaria-ananassa",
+    "Nom_commun": "Fraisier",
+    "Categorie": "Plantes aromatiques & légumes",
+    "Famille": "Rosaceae",
+    "Genre": "Fragaria",
+    "Espece": "ananassa",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Fraisier_%C3%A0_gros_fruits",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Fragaria_%C3%97_ananassa",
+    "Anecdote": "Les petits éléments visibles à la surface de la fraise sont les vrais fruits botaniques ; la partie rouge est un réceptacle développé.",
+    "note": "",
+    "images": [
+      "images/fragaria_ananassa_complet_1.jpg",
+      "images/fragaria_ananassa_detail_1.jpg"
+    ],
+    "image_principale": "images/fragaria_ananassa_complet_1.jpg"
+  },
+  {
+    "id": "mentha-spicata",
+    "Nom_commun": "Menthe verte ; Menthe en épi",
+    "Categorie": "Plantes aromatiques & légumes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Mentha",
+    "Espece": "spicata",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Mentha_spicata",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Mentha_spicata",
+    "Anecdote": "Spicata signifie « en épi », en référence à l’inflorescence allongée de la menthe verte.",
+    "note": "",
+    "images": [
+      "images/mentha_spicata_complet_1.jpg",
+      "images/mentha_spicata_detail_1.jpg"
+    ],
+    "image_principale": "images/mentha_spicata_complet_1.jpg"
+  },
+  {
+    "id": "ocimum-basilicum",
+    "Nom_commun": "Basilic",
+    "Categorie": "Plantes aromatiques & légumes",
+    "Famille": "Lamiaceae-Labiatae",
+    "Genre": "Ocimum",
+    "Espece": "basilicum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Basilic_(plante)",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Ocimum_basilicum",
+    "Anecdote": "Le basilic est une Lamiacée : tiges souvent carrées et feuilles opposées, deux repères utiles à l’identification.",
+    "note": "",
+    "images": [
+      "images/ocimum_basilicum_complet_1.jpg",
+      "images/ocimum_basilicum_detail_1.jpg"
+    ],
+    "image_principale": "images/ocimum_basilicum_complet_1.jpg"
+  },
+  {
+    "id": "petroselinum-crispum-sativum",
+    "Nom_commun": "Persil",
+    "Categorie": "Plantes aromatiques & légumes",
+    "Famille": "Apiaceae-Umbelliferae",
+    "Genre": "Petroselinum",
+    "Espece": "crispum / sativum",
+    "Cultivar": "-",
+    "Lien_general": "https://fr.wikipedia.org/wiki/Persil",
+    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Petroselinum_crispum",
+    "Anecdote": "Crispum évoque les formes frisées du persil ; il appartient à la famille des Apiacées.",
+    "note": "",
+    "images": [],
+    "image_principale": null
+  }
+]
