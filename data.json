@@ -1047,9 +1047,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Caryopteris_%C3%97_clandonensis",
     "Anecdote": "Petit arbuste précieux pour sa floraison bleu intense à la fin de l'été (août-septembre). Son feuillage caduc dégage un parfum aromatique poivré lorsqu'on le froisse.",
     "note": "",
-    "images": [
-      "images/caryopteris_x_clandonensis_complet_1.jpg"
-    ],
+    "images": ["images/caryopteris_x_clandonensis_complet_1.jpg"],
     "image_principale": "images/caryopteris_x_clandonensis_complet_1.jpg"
   },
   {
@@ -1064,9 +1062,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Chaenomeles_%C3%97_superba",
     "Anecdote": "Arbuste défensif très précoce qui se couvre de fleurs rouge/rosé spectaculaires dès la fin de l'hiver, avant même l'apparition des feuilles. Ses petits fruits ressemblent à de petits coings aromatiques.",
     "note": "",
-    "images": [
-      "images/chaenomeles_x_superba_complet_1.jpg"
-    ],
+    "images": ["images/chaenomeles_x_superba_complet_1.jpg"],
     "image_principale": "images/chaenomeles_x_superba_complet_1.jpg"
   },
   {
@@ -1210,9 +1206,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Cotoneaster_franchetii",
     "Anecdote": "Arbuste semi-persistant aux baies orange-rouge très abondantes en automne, très prisées des oiseaux. Le revers de ses petites feuilles est recouvert d'un duvet feutré argenté.",
     "note": "",
-    "images": [
-      "images/cotoneaster_franchetii_complet_1.jpg"
-    ],
+    "images": ["images/cotoneaster_franchetii_complet_1.jpg"],
     "image_principale": "images/cotoneaster_franchetii_complet_1.jpg"
   },
   {
@@ -1613,9 +1607,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Mahonia_%C3%97_media",
     "Anecdote": "Spectaculaire floraison hivernale (de novembre à février) en longs épis jaune citron très parfumés au sommet d'un feuillage persistant très coriace et épineux.",
     "note": "",
-    "images": [
-      "images/mahonia_x_media_complet_1.jpg"
-    ],
+    "images": ["images/mahonia_x_media_complet_1.jpg"],
     "image_principale": "images/mahonia_x_media_complet_1.jpg"
   },
   {
@@ -1813,9 +1805,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Pyracantha",
     "Anecdote": "Surnommé 'Buisson ardent' pour ses épines redoutables et ses innombrables baies colorées (rouges, orange ou jaunes) qui recouvrent littéralement l'arbuste en automne et en hiver.",
     "note": "",
-    "images": [
-      "images/pyracantha_x_complet_1.jpg"
-    ],
+    "images": ["images/pyracantha_x_complet_1.jpg"],
     "image_principale": "images/pyracantha_x_complet_1.jpg"
   },
   {
@@ -2005,9 +1995,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Yucca_filamentosa",
     "Anecdote": "Feuillage persistant raide bordé de fils effilochés, produisant en été une spectaculaire hampe florale dressée pouvant dépasser 1,50 m de hauteur.",
     "note": "",
-    "images": [
-      "images/symphoricarpos_x_doorenbosii_complet_1.jpg"
-    ],
+    "images": ["images/symphoricarpos_x_doorenbosii_complet_1.jpg"],
     "image_principale": "images/symphoricarpos_x_doorenbosii_complet_1.jpg"
   },
   {
@@ -2380,9 +2368,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Echinacea_purpurea",
     "Anecdote": "Plante médicinale majeure issue de la médecine traditionnelle amérindienne, reconnaissable à ses grandes marguerites roses au cœur hérissé comme un hérisson.",
     "note": "",
-    "images": [
-      "images/astilbe_x_arendsii_complet_1.jpg"
-    ],
+    "images": ["images/astilbe_x_arendsii_complet_1.jpg"],
     "image_principale": "images/astilbe_x_arendsii_complet_1.jpg"
   },
   {
@@ -2397,9 +2383,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Euphorbia_characias",
     "Anecdote": "Vivace structurante au feuillage persistant bleu-vert, portant d'imposantes inflorescences sphériques vert-jaune au printemps. Attention : sa sève (latex) est irritante.",
     "note": "",
-    "images": [
-      "images/aubrieta_deltoidea_complet_1.jpg"
-    ],
+    "images": ["images/aubrieta_deltoidea_complet_1.jpg"],
     "image_principale": "images/aubrieta_deltoidea_complet_1.jpg"
   },
   {
@@ -2803,9 +2787,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Pleioblastus_fortunei",
     "Anecdote": "Ce bambou nain forme des touffes de feuilles panachées ; mémo : « Pleioblastus = petit bambou décoratif ».",
     "note": "Vérifier la variété ou le cultivar si le concours distingue les formes panachées.",
-    "images": [
-      "images/pleioblastus_fortunei_complet_1.jpg"
-    ],
+    "images": ["images/pleioblastus_fortunei_complet_1.jpg"],
     "image_principale": "images/pleioblastus_fortunei_complet_1.jpg"
   },
   {
@@ -3082,10 +3064,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Dahlia",
     "Anecdote": "Le dahlia est un genre horticole très diversifié, cultivé pour ses capitules aux formes multiples.",
     "note": "",
-    "images": [
-      "images/dahlia_x_complet_1.jpg",
-      "images/dahlia_x_detail_1.jpg"
-    ],
+    "images": ["images/dahlia_x_complet_1.jpg", "images/dahlia_x_detail_1.jpg"],
     "image_principale": "images/dahlia_x_complet_1.jpg"
   },
   {
@@ -3170,9 +3149,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Impatiens_hawkeri",
     "Anecdote": "Les Impatiens peuvent projeter leurs graines à maturité ; mémo : « impatience = capsule qui n’attend pas ».",
     "note": "",
-    "images": [
-      "images/impatiens_x_hawkeri_complet_1.jpg"
-    ],
+    "images": ["images/impatiens_x_hawkeri_complet_1.jpg"],
     "image_principale": "images/impatiens_x_hawkeri_complet_1.jpg"
   },
   {
@@ -3217,9 +3194,7 @@
     "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Nicotiana_%C3%97_sanderae",
     "Anecdote": "Le tabac d’ornement est souvent parfumé le soir ; mémo : « Nicotiana = nez attiré la nuit ».",
     "note": "",
-    "images": [
-      "images/nicotiana_x_sanderae_complet_1.jpg"
-    ],
+    "images": ["images/nicotiana_x_sanderae_complet_1.jpg"],
     "image_principale": "images/nicotiana_x_sanderae_complet_1.jpg"
   },
   {
@@ -3342,24 +3317,7 @@
     ],
     "image_principale": "images/primula_acaulis_complet_1.jpg"
   },
-  {
-    "id": "viola-wittrockiana",
-    "Nom_commun": "Pensée des jardins, Pensée de Wittrock",
-    "Categorie": "Plantes annuelles, bisannuelles et de fleurissement",
-    "Famille": "Violaceae",
-    "Genre": "Viola",
-    "Espece": "wittrockiana",
-    "Cultivar": "-",
-    "Lien_general": "https://fr.wikipedia.org/wiki/Viola_%C3%97_wittrockiana",
-    "Lien_detail": "https://commons.wikimedia.org/wiki/Category:Viola_wittrockiana",
-    "Anecdote": "La pensée évoque un petit visage grâce aux dessins de ses pétales ; c’est un hybride horticole très variable.",
-    "note": "",
-    "images": [
-      "images/viola_wittrockiana_complet_1.jpg",
-      "images/viola_wittrockiana_detail_1.jpg"
-    ],
-    "image_principale": "images/viola_wittrockiana_complet_1.jpg"
-  },
+
   {
     "id": "bellis-perennis",
     "Nom_commun": "Pâquerette, pâquerette vivace, petite Marguerite",

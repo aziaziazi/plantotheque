@@ -1,6 +1,6 @@
+import { execFile } from 'node:child_process';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
-import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 
 const execFileAsync = promisify(execFile);
@@ -93,7 +93,10 @@ async function runWithConcurrency<T, R>(
  */
 export async function optimizeAllImages(options?: OptimizeOptions): Promise<void> {
   const rootDir = process.cwd();
-  const imagesDir = options?.imagesDir ?? path.join(rootDir, 'images');
+  const defaultImagesDir = fs.existsSync(path.join(rootDir, 'public', 'images'))
+    ? path.join(rootDir, 'public', 'images')
+    : path.join(rootDir, 'images');
+  const imagesDir = options?.imagesDir ?? defaultImagesDir;
   const maxDimension = options?.maxDimension ?? 1200;
   const quality = options?.quality ?? 80;
   const concurrency = options?.concurrency ?? 6;
@@ -153,3 +156,4 @@ export async function optimizeAllImages(options?: OptimizeOptions): Promise<void
 
 // Exécution si invoqué directement en CLI
 optimizeAllImages();
+

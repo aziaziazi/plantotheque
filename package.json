@@ -1,0 +1,21 @@
+{
+  "name": "plantes-concours-jardinier",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "build:json": "node scripts/build_json.ts",
+    "optimize:images": "node scripts/optimize_images.ts"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "svelte": "^5.20.2",
+    "svelte-check": "^4.1.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0"
+  }
+}

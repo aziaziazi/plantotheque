@@ -114,8 +114,11 @@ export function buildJson(options?: {
   outputPath?: string;
 }): Plante[] {
   const rootDir = process.cwd();
+  const defaultImagesDir = fs.existsSync(path.join(rootDir, 'public', 'images'))
+    ? path.join(rootDir, 'public', 'images')
+    : path.join(rootDir, 'images');
   const csvPath = options?.csvPath ?? path.join(rootDir, 'plantes_concours_jardinier.csv');
-  const imagesDir = options?.imagesDir ?? path.join(rootDir, 'images');
+  const imagesDir = options?.imagesDir ?? defaultImagesDir;
   const outputPath = options?.outputPath ?? path.join(rootDir, 'data.json');
 
   if (!fs.existsSync(csvPath)) {
