@@ -63,7 +63,6 @@
 
     <p class="meta-line">
       <span class="family-name">{plante.Famille}</span>
-      <span class="meta-sep" aria-hidden="true">·</span>
       <span class="category-label" style="color: {couleur}">{categorie}</span>
     </p>
   </div>
@@ -130,10 +129,17 @@
     gap: 2px;
   }
 
+  /* Les lignes 1 et 3 débordent sous le chevron (centré sur la ligne 2),
+     ce qui rend toute la largeur de la carte disponible au nom et à la catégorie. */
+  .row-header,
+  .meta-line {
+    margin-right: -26px;
+  }
+
   .row-header {
     display: flex;
     align-items: baseline;
-    gap: 6px;
+    gap: 8px;
     min-width: 0;
   }
 
@@ -148,16 +154,12 @@
     text-overflow: ellipsis;
   }
 
+  /* Même traitement typographique que la catégorie : texte simple, aligné à droite. */
   .syn-count {
     flex-shrink: 0;
-    font-size: 0.62rem;
+    font-size: 0.72rem;
     font-weight: 600;
     color: var(--color-text-muted);
-    background: var(--bg-primary);
-    border: 1px solid var(--color-border);
-    border-radius: 999px;
-    padding: 0 5px;
-    line-height: 1.5;
   }
 
   .latin-name {
@@ -176,20 +178,26 @@
   }
 
   .meta-line {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    min-width: 0;
     font-size: 0.72rem;
     color: var(--color-text-muted);
+  }
+
+  .family-name {
+    min-width: 0;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
 
-  .meta-sep {
-    margin: 0 4px;
-    opacity: 0.6;
-  }
-
   .category-label {
+    margin-left: auto;
+    flex-shrink: 0;
     font-weight: 600;
+    white-space: nowrap;
   }
 
   .row-arrow {
