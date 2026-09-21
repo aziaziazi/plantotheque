@@ -1,9 +1,10 @@
 <script lang="ts">
   import type { Plante, QuizNameQuestion, QuizPhotoChoice } from '../types';
 
-  let { plantes, onOpenDetail }: {
+  let { plantes, onOpenDetail, onClickImage }: {
     plantes: Plante[];
     onOpenDetail: (p: Plante) => void;
+    onClickImage: (src: string) => void;
   } = $props();
 
   // Filtrer uniquement les plantes ayant au moins une photo
@@ -87,7 +88,12 @@
         {@const isCorrect = option.plante.id === currentQuestion.targetPlante.id}
         {@const showCorrect = currentQuestion.isAnswered && isCorrect}
         {@const showWrong = currentQuestion.isAnswered && isSelected && !isCorrect}
-
+        {@const handleClickOpenFullPhoto = (e: MouseEvent) => {
+          e.stopPropagation()
+          onClickImage(option.photoUrl)
+          
+        }}
+        
         <button
           class="photo-choice-btn"
           class:correct={showCorrect}
@@ -95,6 +101,7 @@
           onclick={() => selectOption(idx)}
           disabled={currentQuestion.isAnswered}
         >
+          <div class="imageFullPage-btn" onclick={handleClickOpenFullPhoto} aria-label="Fermer l'image'">✻</div>
           <img
             src={option.photoUrl}
             alt="Option photo {idx + 1}"
@@ -148,6 +155,24 @@
 </div>
 
 <style>
+  .imageFullPage-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    width: 24px;
+    height: 24px;
+    border-radius: 0 50% 0 0;
+    background: #1b382b;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+    backdrop-filter: blur(6px);
+  }
+
   .quiz-container {
     max-width: 650px;
     margin: 0 auto;

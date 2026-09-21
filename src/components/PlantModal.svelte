@@ -1,8 +1,9 @@
 <script lang="ts">
   import type { Plante } from '../types';
 
-  let { plante, onClose }: {
+  let { plante, onClickImage, onClose }: {
     plante: Plante;
+    onClickImage: (src: string) => void;
     onClose: () => void;
   } = $props();
 
@@ -26,6 +27,12 @@
       onClose();
     }
   }
+
+  function handleClick(e: MouseEvent) {
+    if (e.target === e.currentTarget) {
+      onClickImage(e.target?.src)
+    }
+  }
 </script>
 
 <svelte:window onkeydown={handleKeyDown} />
@@ -42,6 +49,7 @@
           src={activeImage}
           alt="{plante.Nom_commun} - photo {selectedImageIndex + 1}"
           class="main-img"
+          onclick={handleClick}
         />
       {:else}
         <div class="plant-fallback modal-fallback">

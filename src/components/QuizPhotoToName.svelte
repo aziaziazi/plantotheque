@@ -1,9 +1,10 @@
 <script lang="ts">
   import type { Plante, QuizPhotoQuestion } from '../types';
 
-  let { plantes, onOpenDetail }: {
+  let { plantes, onOpenDetail, onClickImage }: {
     plantes: Plante[];
     onOpenDetail: (p: Plante) => void;
+    onClickImage: (src: string) => void;
   } = $props();
 
   // Filtrer uniquement les plantes ayant au moins une photo disponible
@@ -73,6 +74,10 @@
     currentQuestion.selectedIndex = index;
     currentQuestion.isAnswered = true;
   }
+
+  function handleClickPhoto() {
+    currentQuestion && onClickImage(currentQuestion.photoUrl)
+  }
 </script>
 
 <div class="quiz-container">
@@ -84,7 +89,7 @@
   {#if currentQuestion}
     <div class="quiz-card">
       <!-- Photo de la plante -->
-      <div class="photo-frame">
+      <div class="photo-frame" onclick={handleClickPhoto}>
         <img
           src={currentQuestion.photoUrl}
           alt="Plante à identifier"

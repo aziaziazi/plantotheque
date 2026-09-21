@@ -1,6 +1,7 @@
 <script lang="ts">
   import rawPlantes from '../data.json';
   import Catalogue from './components/Catalogue.svelte';
+  import ImageFullPage from './components/ImageFullPage.svelte';
   import Navbar from './components/Navbar.svelte';
   import PlantModal from './components/PlantModal.svelte';
   import QuizNameToPhoto from './components/QuizNameToPhoto.svelte';
@@ -11,6 +12,7 @@
 
   let activeTab = $state<ActiveTab>('catalogue');
   let selectedPlant = $state<Plante | null>(null);
+  let fullImage = $state<string | null>(null);
 
   function openDetail(p: Plante) {
     selectedPlant = p;
@@ -19,8 +21,21 @@
   function closeDetail() {
     selectedPlant = null;
   }
+
+  function openFullImage(src: string) {
+    fullImage = src;
+  }
+
+  function closeFullImage() {
+    fullImage = null;
+  }
 </script>
 
+<!-- full page image -->
+  {#if fullImage}
+    <ImageFullPage src={fullImage} onClose={closeFullImage} />
+  {/if}
+  
 <div class="app-container">
   <!-- Barre supérieure de l'application -->
   <header class="app-topbar">
@@ -40,15 +55,15 @@
     {#if activeTab === 'catalogue'}
       <Catalogue {plantes} onSelectPlant={openDetail} />
     {:else if activeTab === 'quiz-photo'}
-      <QuizPhotoToName {plantes} onOpenDetail={openDetail} />
+      <QuizPhotoToName {plantes} onOpenDetail={openDetail} onClickImage={openFullImage}/>
     {:else if activeTab === 'quiz-nom'}
-      <QuizNameToPhoto {plantes} onOpenDetail={openDetail} />
+      <QuizNameToPhoto {plantes} onOpenDetail={openDetail} onClickImage={openFullImage}/>
     {/if}
   </main>
 
   <!-- Modal de fiche plante détaillée -->
   {#if selectedPlant}
-    <PlantModal plante={selectedPlant} onClose={closeDetail} />
+    <PlantModal plante={selectedPlant} onClickImage={openFullImage} onClose={closeDetail} />
   {/if}
 
   <!-- Barre de navigation inférieure mobile (Tab Bar) -->
