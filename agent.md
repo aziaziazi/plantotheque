@@ -62,16 +62,14 @@ Ce document sert de référence unique et de guide d'exécution pour le dévelop
   - **Famille**
   - **Genre + Espèce** (nom botanique latin)
 - **Mécanique de réponse** :
-  - Mode QCM intelligent (avec distracteurs pertinents de la même famille ou catégorie) ou saisie semi-assistée (recherche rapide / autocomplétion ergonomique tactile).
-- **Feedback & Pédagogie** :
-  - Validation immédiate (vert/rouge) avec affichage de la réponse complète.
-  - Répétition des erreurs (les plantes manquées reviennent plus fréquemment).
-  - Compteur de score et série en cours.
+  - Sélection parmi des choix (QCM : la bonne réponse + propositions de choix).
+- **Feedback** :
+  - Validation immédiate (vert/rouge) avec affichage de la fiche et des informations complètes.
 
 ### C. Mode Quiz 2 : Reconnaissance Visuelle (Nom ➡️ Photo)
 - **Principe** : L'application affiche l'identité complète d'une plante (Nom commun + Famille + Genre + Espèce).
-- **Défi** : L'utilisatrice doit sélectionner la bonne photo parmi une grille de photos (la bonne photo + 3 ou 5 distracteurs).
-- **Feedback immédiat** : Indication visuelle directe et affichage de la fiche en cas d'hésitation.
+- **Défi** : L'utilisatrice doit sélectionner la bonne photo parmi une grille de photos.
+- **Feedback immédiat** : Indication visuelle directe et affichage de la fiche au besoin.
 
 ---
 
@@ -91,12 +89,6 @@ Ce document sert de référence unique et de guide d'exécution pour le dévelop
   - Cibles tactiles larges (minimum 44x44px) pour une utilisation confortable au doigt sur iPhone et iPad.
   - Pas de hover obligatoire, gestes de balayage ou boutons clairs.
 
-### Gestion du Poids des Images (Point d'Attention Majeur)
-- Le dossier `images/` brut issu de Wikimedia pèse ~1.8 Go avec des images pouvant aller jusqu'à 71 Mo.
-- Pour une utilisation mobile fluide et pour respecter les quotas GitHub / GitHub Pages (< 1 Go recommandé) :
-  - Prévoir un script d'optimisation / compression (redimensionnement max 1200px, WebP ou JPEG qualité 80).
-  - Réduction estimée : de 1.8 Go à ~35-50 Mo au total, temps de chargement divisé par 40.
-
 ### Déploiement : GitHub Pages
 - Pipeline CI/CD GitHub Actions automatisé (`.github/workflows/deploy.yml`).
 - Build Vite statique déployé automatiquement à chaque push sur `main`.
@@ -110,10 +102,11 @@ Ce document sert de référence unique et de guide d'exécution pour le dévelop
    - Initialisation du dépôt Git propre (sans le front brouillon).
    - Configuration du `.gitignore`.
 
-2. 🔄 **Phase 2 : Données & Optimisation des Images**
-   - Ajustement du script `build_json.py` pour indexer précisément les images disponibles.
-   - Optimisation / redimensionnement des images pour le web et mobile.
+2. ✅ **Phase 2 : Données & Optimisation des Images**
+   - Script `build_json.ts` (TypeScript) pour indexer précisément les images disponibles.
+   - Script d'optimisation `optimize_images.ts` exécuté (compression des images à 138 Mo).
    - Validation du fichier `data.json` final.
+   - Squash de l'historique Git et purge de l'ancien pack volumineux.
 
 3. 🚀 **Phase 3 : Refonte du Frontend (Svelte + Vite)**
    - Initialisation du projet Vite + Svelte.
@@ -121,9 +114,8 @@ Ce document sert de référence unique et de guide d'exécution pour le dévelop
    - Vues Catalogue (Grille & Liste) + Fiche modale détaillée avec galerie.
 
 4. 🎯 **Phase 4 : Modules de Quiz**
-   - Implémentation du Quiz 1 (Photo ➡️ Nom complet).
-   - Implémentation du Quiz 2 (Nom complet ➡️ Grille de photos).
-   - Système de progression, suivi des erreurs et statistiques de révision.
+   - Implémentation du Quiz 1 (Photo ➡️ Sélection parmi choix de noms complets).
+   - Implémentation du Quiz 2 (Nom complet ➡️ Sélection parmi choix de photos).
 
 5. 🌐 **Phase 5 : Déploiement GitHub Pages & Finitions PWA**
    - Configuration du workflow GitHub Actions.
